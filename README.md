@@ -1,6 +1,6 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| Kennis centrum Architectuur | Ivo Hendriks |
+| Kennis Centrum Architectuur | Ivo Hendriks |
 <hr/>
 
 # Template-repository
