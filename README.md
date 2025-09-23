@@ -4,10 +4,7 @@
 <hr/>
 
 # Template-repository
-Deze repository is een template repository die bijv. als basis voor het genereren van nieuwe API-specificatie of Groep van API-specificaties repository gebruikt kan worden.
-Een VNG-R GitHub administrator kan de link [_Use this template_](https://github.com/VNG-Realisatie/API-specificatie-template-repository/generate) gebruiken om een kopie van de onderliggende template aan te maken die vervolgens aangepast en uitgebreid kan worden.
-
-De op die wijze gecreëerde kopie bevat een standaard content en structuur die door de eigenaar van de repository kan worden aangepast afhankelijk van de wensen en functie van de repository.
+Deze repository bevat een standaard content en structuur die door de eigenaar van de repository kan worden aangepast afhankelijk van de wensen en functie van de repository.
 * Voorzie in een duidelijke beschrijving van de functie van deze repository. Zie daarvoor het tandwieletje onder de 'About' kop. Op basis van de tabel maar ook deze beschrijving kan t.b.v. beheer op de GitHub repositories op een later moment het bestaansrecht achterhaald worden;
 * Indien de repository niet bedoeld is om een OAS in te beheren kan de folder 'specificaties' worden verwijderd;
 * Ongewenste issue-report types kunnen uit de folder '.github/ISSUE_TEMPLATE' worden verwijderd;
