@@ -38,7 +38,7 @@
     </sourceConnections>
     <bounds
         x="584"
-        y="864"
+        y="856"
         width="625"
         height="153"/>
     <children
@@ -96,12 +96,12 @@
         <bendpoints
             startY="-96"
             endX="-432"
-            endY="648"/>
+            endY="639"/>
         <bendpoints
             startX="624"
             startY="-96"
             endX="192"
-            endY="648"/>
+            endY="639"/>
         <bendpoints
             startX="624"
             startY="-744"
@@ -137,7 +137,7 @@
             startX="-376"
             startY="-24"
             endX="-808"
-            endY="544"/>
+            endY="536"/>
         <bendpoints
             startX="-376"
             startY="-712"
@@ -815,7 +815,7 @@
     </sourceConnections>
     <bounds
         x="584"
-        y="1048"
+        y="1032"
         width="625"
         height="153"/>
     <children
@@ -847,7 +847,7 @@
             href="AssociationRelationship_id-950abaa25fc24ecd82320d3b7d855977.xml#id-950abaa25fc24ecd82320d3b7d855977"/>
       </sourceConnections>
       <bounds
-          x="256"
+          x="248"
           y="40"
           width="129"
           height="81"/>
@@ -924,7 +924,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f7b1be7f1bf24b7db4b515ecaaecd21f"
-      lineWidth="2"
+      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
       fillColor="#ffffea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -936,8 +936,8 @@
           href="AccessRelationship_id-2ddf068d6a6945c6a5cf47867df96404.xml#id-2ddf068d6a6945c6a5cf47867df96404"/>
     </sourceConnections>
     <bounds
-        x="360"
-        y="1048"
+        x="368"
+        y="1032"
         width="193"
         height="153"/>
     <children
@@ -955,8 +955,8 @@
           source="id-1318d9696f9141d19e374b26fc92ef84"
           target="id-bfd2c1a0a452442c943eafbab235c592">
         <bendpoints
-            startY="-160"
-            endX="-224"
+            startY="-152"
+            endX="-216"
             endY="24"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
