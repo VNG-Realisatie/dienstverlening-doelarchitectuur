@@ -1,6 +1,6 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| Kennis Centrumarchitectuur | Ivo Hendriks |
+| Kenniscentrum architectuur | Ivo Hendriks |
 
 # Dienstverlening Doelarchitectuur (DIDO)
 
