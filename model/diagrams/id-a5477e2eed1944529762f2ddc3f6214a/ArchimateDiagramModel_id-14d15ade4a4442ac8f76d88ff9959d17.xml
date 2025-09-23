@@ -29,7 +29,7 @@
     </sourceConnections>
     <bounds
         x="784"
-        y="1088"
+        y="1080"
         width="417"
         height="153"/>
     <children
@@ -47,10 +47,10 @@
         <bendpoints
             startX="-448"
             endX="-800"
-            endY="440"/>
+            endY="432"/>
         <bendpoints
             startX="-448"
-            startY="-440"
+            startY="-432"
             endX="-800"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
@@ -328,6 +328,8 @@
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-08737ca3ff194556ad87472274b6ceee"
+            font="1|Figtree|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
+            textPosition="2"
             source="id-60cd7150d15448338d031c362dd20b97"
             target="id-59dbf9c3aef248c99d1a3509348b5823">
           <archimateRelationship

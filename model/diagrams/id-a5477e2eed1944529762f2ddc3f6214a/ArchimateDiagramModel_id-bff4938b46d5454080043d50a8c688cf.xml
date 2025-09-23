@@ -50,6 +50,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1757ec02df1c413c946e6f8c1514ff03"
+          font="1|Figtree|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
           textPosition="2"
           source="id-205c9abe04c24433a95f7812e85cc144"
           target="id-646667afff774854ac4937e085d04f9d">
@@ -75,6 +76,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5867c26b1cd647fc95df569d775fbbb2"
+          font="1|Figtree|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
           textPosition="2"
           source="id-646667afff774854ac4937e085d04f9d"
           target="id-662a7b67a9f349ddaedd6fe6d3415515">
@@ -145,7 +147,7 @@
     </sourceConnections>
     <bounds
         x="456"
-        y="360"
+        y="352"
         width="553"
         height="153"/>
     <children

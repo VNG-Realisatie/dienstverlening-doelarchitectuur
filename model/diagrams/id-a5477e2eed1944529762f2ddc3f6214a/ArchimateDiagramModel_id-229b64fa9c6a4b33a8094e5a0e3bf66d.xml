@@ -20,7 +20,7 @@
     </sourceConnections>
     <bounds
         x="176"
-        y="224"
+        y="216"
         width="193"
         height="152"/>
     <children
@@ -49,7 +49,7 @@
           target="id-18ca2fac0eff4eaf903fab5815bc0d20">
         <bendpoints
             startX="216"
-            endY="184"/>
+            endY="176"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-42c9cd57949640e382064f294a15112a.xml#id-42c9cd57949640e382064f294a15112a"/>

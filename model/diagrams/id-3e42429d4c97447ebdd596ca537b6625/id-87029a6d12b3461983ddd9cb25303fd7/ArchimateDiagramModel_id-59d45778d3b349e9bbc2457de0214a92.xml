@@ -408,7 +408,7 @@
     </sourceConnections>
     <bounds
         x="456"
-        y="88"
+        y="96"
         width="513"
         height="152"/>
     <children
@@ -517,7 +517,7 @@
     </sourceConnections>
     <bounds
         x="776"
-        y="576"
+        y="584"
         width="193"
         height="153"/>
     <children
@@ -536,12 +536,11 @@
         <bendpoints
             startX="328"
             endX="328"
-            endY="304"/>
+            endY="312"/>
         <bendpoints
             startX="328"
-            startY="-296"
-            endX="328"
-            endY="8"/>
+            startY="-312"
+            endX="328"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-87506abd6bdb42f79816306ae5a05891.xml#id-87506abd6bdb42f79816306ae5a05891"/>

@@ -66,7 +66,7 @@
     </sourceConnections>
     <bounds
         x="464"
-        y="784"
+        y="776"
         width="409"
         height="153"/>
     <children
@@ -106,8 +106,8 @@
           source="id-36bba6c032af45aa914671399b91a494"
           target="id-7782ca2e76dd4490a531d8bae37d3e95">
         <bendpoints
-            startX="224"
-            endY="184"/>
+            startX="216"
+            endY="176"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-020fc65e00c047d880afea3199affb6c.xml#id-020fc65e00c047d880afea3199affb6c"/>
@@ -239,7 +239,7 @@
           href="AccessRelationship_id-4273da06987042049cf691530568c700.xml#id-4273da06987042049cf691530568c700"/>
     </sourceConnections>
     <bounds
-        x="904"
+        x="896"
         y="600"
         width="193"
         height="153"/>

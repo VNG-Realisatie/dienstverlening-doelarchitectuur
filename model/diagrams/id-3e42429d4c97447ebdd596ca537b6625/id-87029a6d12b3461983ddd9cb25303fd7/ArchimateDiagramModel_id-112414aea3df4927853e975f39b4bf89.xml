@@ -101,7 +101,7 @@
     <bounds
         x="416"
         y="400"
-        width="849"
+        width="841"
         height="520"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -128,6 +128,9 @@
           textPosition="2"
           source="id-196b5fc717eb47dd9800ff58a5ecee1c"
           target="id-a0f891823fea4f34bf8bcbfc13f583c8">
+        <bendpoints
+            startX="-104"
+            endX="112"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-1e4f117209c54401b32df771eee88e16.xml#id-1e4f117209c54401b32df771eee88e16"/>
@@ -279,6 +282,9 @@
           textPosition="2"
           source="id-a0f891823fea4f34bf8bcbfc13f583c8"
           target="id-9740d5affedf40fdaedf94ed26dab02c">
+        <bendpoints
+            startX="-104"
+            endX="112"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-37eb4f84153245c0bc949975ee85f91f.xml#id-37eb4f84153245c0bc949975ee85f91f"/>
@@ -315,6 +321,10 @@
           textPosition="2"
           source="id-1779c4d8f4c645fd999512e8fd19b777"
           target="id-3e918fa09cf240e9a3d20031c492e6fa">
+        <bendpoints
+            startX="248"
+            endX="-192"
+            endY="1"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-5fe88089d98748fa8fb90366e18946a5.xml#id-5fe88089d98748fa8fb90366e18946a5"/>
@@ -428,14 +438,14 @@
           target="id-3e918fa09cf240e9a3d20031c492e6fa">
         <bendpoints
             startY="88"
-            endX="-224"
+            endX="-216"
             endY="-23"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-21e8258419914c379834ec06f4e69595.xml#id-21e8258419914c379834ec06f4e69595"/>
       </sourceConnections>
       <bounds
-          x="688"
+          x="680"
           y="152"
           width="129"
           height="81"/>
@@ -481,7 +491,7 @@
     </sourceConnections>
     <bounds
         x="416"
-        y="216"
+        y="224"
         width="625"
         height="153"/>
     <children
@@ -570,7 +580,7 @@
           href="AccessRelationship_id-9df0c13b306b4934bb8e65242620b20b.xml#id-9df0c13b306b4934bb8e65242620b20b"/>
     </sourceConnections>
     <bounds
-        x="192"
+        x="200"
         y="624"
         width="193"
         height="152"/>
@@ -608,7 +618,7 @@
           href="AccessRelationship_id-1ddeb8fe1ac64ea88f48a31358ba2f5b.xml#id-1ddeb8fe1ac64ea88f48a31358ba2f5b"/>
     </sourceConnections>
     <bounds
-        x="1296"
+        x="1280"
         y="623"
         width="193"
         height="153"/>
@@ -646,8 +656,8 @@
           href="AccessRelationship_id-ab6ef7714a044f14b475b61af8009d0d.xml#id-ab6ef7714a044f14b475b61af8009d0d"/>
     </sourceConnections>
     <bounds
-        x="1072"
-        y="216"
+        x="1064"
+        y="224"
         width="193"
         height="153"/>
     <children
@@ -754,7 +764,7 @@
     </sourceConnections>
     <bounds
         x="640"
-        y="952"
+        y="944"
         width="193"
         height="153"/>
     <children
@@ -770,18 +780,13 @@
           source="id-393a43e2dc7748fb8849f9981e4e495c"
           target="id-bcbf7551db8848d6ad4dd1676ce521ce">
         <bendpoints
-            startY="-96"
-            endX="-432"
-            endY="344"/>
+            startX="760"
+            endX="336"
+            endY="432"/>
         <bendpoints
-            startX="776"
-            startY="-96"
-            endX="344"
-            endY="344"/>
-        <bendpoints
-            startX="776"
-            startY="-440"
-            endX="344"/>
+            startX="760"
+            startY="-432"
+            endX="336"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-5931f0b0bb7043d79f5a06d7eeb3b5f3.xml#id-5931f0b0bb7043d79f5a06d7eeb3b5f3"/>
