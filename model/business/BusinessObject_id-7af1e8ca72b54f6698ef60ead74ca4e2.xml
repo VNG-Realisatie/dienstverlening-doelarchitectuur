@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voor openbaarmaking geschikt bestand"
+    id="id-7af1e8ca72b54f6698ef60ead74ca4e2"
+    documentation="Geordende verzameling van gegevens in elektronische vorm, die door een elektronisch apparaat (computer, smartphone, videorecorder enzovoort) onder één naam kan worden behandeld en aangesproken.">
+  <properties
+      key="bron"
+      value="MDTO"/>
+</archimate:BusinessObject>

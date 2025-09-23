@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Detailview Compliance management"
+    id="id-4ff8e514079c4904903c46c29fc92bbe">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d463860c0df545ae901ae622bbdfd096"
+      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
+      lineWidth="3"
+      fillColor="#ffffea"
+      textPosition="1">
+    <bounds
+        x="248"
+        y="272"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-917fe4a692c142c29ee86489d23f89b4.xml#id-917fe4a692c142c29ee86489d23f89b4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

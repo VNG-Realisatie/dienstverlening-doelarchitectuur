@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ontstaat uit"
+    id="id-5e69a80a0fa945738311852c50b5a8e4"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e0c25fc6547e42a682cb11a2d0841b75.xml#id-e0c25fc6547e42a682cb11a2d0841b75"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1f4112949cca406391f62aac03cfae0a.xml#id-1f4112949cca406391f62aac03cfae0a"/>
+</archimate:AssociationRelationship>

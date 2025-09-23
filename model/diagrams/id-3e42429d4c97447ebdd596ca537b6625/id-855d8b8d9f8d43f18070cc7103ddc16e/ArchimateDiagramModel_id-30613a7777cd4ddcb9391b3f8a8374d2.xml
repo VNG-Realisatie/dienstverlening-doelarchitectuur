@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Detailview Communicatie-artefact"
+    id="id-30613a7777cd4ddcb9391b3f8a8374d2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1787843cb70a4362a232edf0cd7597d5"
+      textAlignment="1"
+      fillColor="#fffff4">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-af76c3a450254c079ab611efcc44f936"
+        source="id-1787843cb70a4362a232edf0cd7597d5"
+        target="id-0497928ba40f43b09ee7d2818206cf61">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-863b46837a3d4b16bc523265ed4747ce.xml#id-863b46837a3d4b16bc523265ed4747ce"/>
+    </sourceConnections>
+    <bounds
+        x="396"
+        y="287"
+        width="193"
+        height="154"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-0497928ba40f43b09ee7d2818206cf61"
+        targetConnections="id-af76c3a450254c079ab611efcc44f936"
+        textPosition="1">
+      <bounds
+          x="32"
+          y="40"
+          width="129"
+          height="82"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-adf704ce19434fc3bfd4abd27694e04e.xml#id-adf704ce19434fc3bfd4abd27694e04e"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-1a6cf88c83464d989c72efc5b9a8dc9c.xml#id-1a6cf88c83464d989c72efc5b9a8dc9c"/>
+  </children>
+</archimate:ArchimateDiagramModel>

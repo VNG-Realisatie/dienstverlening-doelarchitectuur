@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieobject"
+    id="id-64fa124311c44cf294506db623e143d6"
+    documentation="Een op zichzelf staand geheel van gegevens met een eigen identiteit.">
+  <properties
+      key="bron"
+      value="MDTO"/>
+  <properties/>
+</archimate:BusinessObject>

@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Detailview Vernietigen"
+    id="id-7c50b9f56a5c42b7b4169d3b01f069fa">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1a2ba4a472fb4733aa6d05e3b2b364cc"
+      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
+      lineWidth="3"
+      fillColor="#ffffea"
+      textPosition="1">
+    <bounds
+        x="189"
+        y="363"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-c787160dd1f1489fb794ab0e77118baf.xml#id-c787160dd1f1489fb794ab0e77118baf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

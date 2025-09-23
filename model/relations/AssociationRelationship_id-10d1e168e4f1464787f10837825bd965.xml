@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="luistert naar gebeurtenissen over"
+    id="id-10d1e168e4f1464787f10837825bd965"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-ceead36570aa4e16a46fa0c6e59f1b59.xml#id-ceead36570aa4e16a46fa0c6e59f1b59"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-18dbc483a341494b9f819068cdea41ca.xml#id-18dbc483a341494b9f819068cdea41ca"/>
+</archimate:AssociationRelationship>

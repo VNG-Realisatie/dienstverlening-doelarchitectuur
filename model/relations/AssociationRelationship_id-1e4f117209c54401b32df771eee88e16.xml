@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bestaat uit"
+    id="id-1e4f117209c54401b32df771eee88e16"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5cc97c0c32af4ef3bd67f4535135db91.xml#id-5cc97c0c32af4ef3bd67f4535135db91"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-abfaef21d5224649ac6616fac5511659.xml#id-abfaef21d5224649ac6616fac5511659"/>
+</archimate:AssociationRelationship>

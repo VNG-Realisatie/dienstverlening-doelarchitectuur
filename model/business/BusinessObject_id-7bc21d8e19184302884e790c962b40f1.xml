@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestand"
+    id="id-7bc21d8e19184302884e790c962b40f1"
+    documentation="Geordende verzameling van gegevens in elektronische vorm, die door een elektronisch apparaat (computer, smartphone, videorecorder enzovoort) onder één naam kan worden behandeld en aangesproken.">
+  <properties
+      key="bron"
+      value="MDTO"/>
+</archimate:BusinessObject>

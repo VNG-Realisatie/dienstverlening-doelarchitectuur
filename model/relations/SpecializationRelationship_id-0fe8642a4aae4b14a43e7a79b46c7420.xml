@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is vorm van"
+    id="id-0fe8642a4aae4b14a43e7a79b46c7420">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8a2a69dc42bb44cf8a97ab4a0943c292.xml#id-8a2a69dc42bb44cf8a97ab4a0943c292"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5cc97c0c32af4ef3bd67f4535135db91.xml#id-5cc97c0c32af4ef3bd67f4535135db91"/>
+</archimate:SpecializationRelationship>

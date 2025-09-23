@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beschrijft werkwijze bij"
+    id="id-1d675e8db02d404a950ba7a63c61bfe8"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-eacb4e377c1845d49ab36ba5b62bd7a3.xml#id-eacb4e377c1845d49ab36ba5b62bd7a3"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f9838f01c9c94b71bbaba452ca223f8b.xml#id-f9838f01c9c94b71bbaba452ca223f8b"/>
+</archimate:AssociationRelationship>

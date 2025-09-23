@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ontstaat door"
+    id="id-7981469c274c4130878b5fb0f6fb07a0"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6d02577cd2164eb3ad7165e77ad93505.xml#id-6d02577cd2164eb3ad7165e77ad93505"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-86b19f37ff70411fb3383f35e55bce22.xml#id-86b19f37ff70411fb3383f35e55bce22"/>
+</archimate:AssociationRelationship>

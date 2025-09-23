@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kent participerende"
+    id="id-242162e79c4346ada79ee91a7ddb5d6d"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-abfaef21d5224649ac6616fac5511659.xml#id-abfaef21d5224649ac6616fac5511659"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-89f4f7c0aeac4816a3db15e9e190d303.xml#id-89f4f7c0aeac4816a3db15e9e190d303"/>
+</archimate:AssociationRelationship>

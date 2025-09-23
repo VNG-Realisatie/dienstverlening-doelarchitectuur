@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geldt voor"
+    id="id-39038d8e42be4c0481a2ca7b2102598a"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a400da58dba445679fd8ae3c98cb3aae.xml#id-a400da58dba445679fd8ae3c98cb3aae"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f9838f01c9c94b71bbaba452ca223f8b.xml#id-f9838f01c9c94b71bbaba452ca223f8b"/>
+</archimate:AssociationRelationship>
