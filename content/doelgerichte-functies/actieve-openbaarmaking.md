@@ -1,6 +1,10 @@
 ---
 title: Actieve openbaarmaking
 draft: true
-description: Detail
-category: Doelgerichte functie
+description: Detailview doelgerichte functie 'Actieve openbaarmaking' 
+category: doelgerichte functie
 ---
+
+# Actieve openbaarmaking
+
+<img src="./img/overzicht_functies_en_concepten.svg" alt="Een detailview in Archimate van de doelgerichte functie 'Actieve openbaarmaking'" title="Een detailview van de doelgerichte functie 'Actieve openbaarmaking'" style="width: 46%;">
