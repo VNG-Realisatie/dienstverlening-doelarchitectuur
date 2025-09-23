@@ -6,7 +6,7 @@
 
 (Eerder gebruikte afkorting: DIA - Dienstverlening (doel)Architectuur. Maar daarin ontbreekt dat het nadrukkelijk om een 'doel' architectuur gaat.)
 
-## Inhoudsopgave
+## Inhoudsopgaved
 
 - [Status](#status)
 - [Over deze architectuur](#over-deze-architectuur)
