@@ -1,6 +1,6 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| Kennis centrum Architectuur | Robert Melskens |
+| Kennis centrum Architectuur | Ivo Hendriks |
 <hr/>
 
 # Template-repository
