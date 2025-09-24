@@ -236,18 +236,4 @@
           href="BusinessFunction_id-955f1fec42a74bc4860b96982feafabb.xml#id-955f1fec42a74bc4860b96982feafabb"/>
     </children>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a510b23d8c7045488f60cf27ecb37f9a"
-      fillColor="#bafebf"
-      textPosition="1">
-    <bounds
-        x="970"
-        y="959"
-        width="129"
-        height="81"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-e27828c0efa042128eaca8d166023074.xml#id-e27828c0efa042128eaca8d166023074"/>
-  </children>
 </archimate:ArchimateDiagramModel>
