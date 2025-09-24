@@ -1,8 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Document"
-    id="id-adf704ce19434fc3bfd4abd27694e04e">
-  <properties
-      key="eigenaar"
-      value="Hugo"/>
-</archimate:BusinessObject>

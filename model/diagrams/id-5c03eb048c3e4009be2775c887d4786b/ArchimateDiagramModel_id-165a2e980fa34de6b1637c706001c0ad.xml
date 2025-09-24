@@ -6,8 +6,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-aea012c0216647709946250947dd41b4"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
-      fillColor="#ffffea">
+      font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
+      lineWidth="3"
+      fillColor="#ffeaf8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-fd3f7dc87c9845348e6b99c0a8426d61"
@@ -35,7 +36,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1b58f8bf33a74fcea8769a69372f79cf"
         targetConnections="id-fd3f7dc87c9845348e6b99c0a8426d61"
-        fillColor="#fefeab"
+        fillColor="#fed3eb"
         textPosition="1">
       <bounds
           x="30"
@@ -50,7 +51,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-aef366a561fb41c98c8a19c3ba029685"
         targetConnections="id-1494446086b74fafa618f86f531c3796"
-        fillColor="#fefeab"
+        fillColor="#fed3eb"
         textPosition="1">
       <bounds
           x="32"
