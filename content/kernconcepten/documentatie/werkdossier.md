@@ -7,4 +7,4 @@ category: kernconcept
 
 # Werkdossier
 
-<img src="./img/detailview_werkdossier.svg" alt="Een detailview in Archimate van het kernconcept 'Werkdossier'" title="Een detailview van het kernconcept 'Werkdossier'" style="width: 64%;">
+<img src="./img/detailview_werkdossier.svg" alt="Een detailview in Archimate voor het kernconcept 'Werkdossier'" title="Een detailview voor het kernconcept 'Werkdossier'" style="width: 64%;">

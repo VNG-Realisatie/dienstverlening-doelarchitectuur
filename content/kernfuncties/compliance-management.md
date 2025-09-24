@@ -7,4 +7,4 @@ category: kernfunctie
 
 # Compliance management
 
-<img src="./img/detailview_compliance_management.svg" alt="Een detailview in Archimate van het kernconcept 'Compliance management'" title="Een detailview van het kernconcept 'Compliance management'" style="width: 14%;">
+<img src="./img/detailview_compliance_management.svg" alt="Een detailview in Archimate voor de kernfunctie 'Compliance management'" title="Een detailview voor de kernfunctie 'Compliance management'" style="width: 14%;">

@@ -7,4 +7,4 @@ category: kernconcept
 
 # Verzoek
 
-<img src="./img/detailview_verzoek.svg" alt="Een detailview in Archimate van het kernconcept 'Verzoek'" title="Een detailview van het kernconcept 'Verzoek'" style="width: 100%;">
+<img src="./img/detailview_verzoek.svg" alt="Een detailview in Archimate voor het kernconcept 'Verzoek'" title="Een detailview voor het kernconcept 'Verzoek'" style="width: 100%;">

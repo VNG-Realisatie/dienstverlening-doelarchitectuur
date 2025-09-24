@@ -7,4 +7,4 @@ category: kernconcept
 
 # Handeling
 
-<img src="./img/detailview_handeling.svg" alt="Een detailview in Archimate van het kernconcept 'Handeling'" title="Een detailview van het kernconcept 'Handeling'" style="width: 88%;">
+<img src="./img/detailview_handeling.svg" alt="Een detailview in Archimate voor het kernconcept 'Handeling'" title="Een detailview voor het kernconcept 'Handeling'" style="width: 88%;">

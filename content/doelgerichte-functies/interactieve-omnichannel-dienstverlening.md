@@ -7,4 +7,4 @@ category: doelgerichte functie
 
 # Interactieve (omnichannel) dienstverlening
 
-<img src="./img/detailview_interactieve_omnichannel_dienstverlening.svg" alt="Een detailview in Archimate van de doelgerichte functie 'Interactieve (omnichannel) dienstverlening'" title="Een detailview van de doelgerichte functie 'Interactieve (omnichannel) dienstverlening'" style="width: 100%;">
+<img src="./img/detailview_interactieve_omnichannel_dienstverlening.svg" alt="Een detailview in Archimate voor de doelgerichte functie 'Interactieve (omnichannel) dienstverlening'" title="Een detailview voor de doelgerichte functie 'Interactieve (omnichannel) dienstverlening'" style="width: 100%;">
