@@ -7,4 +7,4 @@ category: doelgerichte functie
 
 # Duurzaam toegankelijk bewaren en beheren
 
-<img src="./img/detailview_duurzaam_toegankelijk_bewaren_en_beheren.svg" alt="Een detailview in Archimate van de doelgerichte functie 'Duurzaam toegankelijk bewaren en beheren'" title="Een detailview van de doelgerichte functie 'Duurzaam toegankelijk bewaren en beheren'" style="width: 100%;">
+<img src="./img/detailview_duurzaam_toegankelijk_bewaren_en_beheren.svg" alt="Een detailview in Archimate van de doelgerichte functie 'Duurzaam toegankelijk bewaren en beheren'" title="Een detailview van de doelgerichte functie 'Duurzaam toegankelijk bewaren en beheren'" style="width: 64%;">

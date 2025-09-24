@@ -7,4 +7,4 @@ category: doelgerichte functie
 
 # Actieve openbaarmaking
 
-<img src="./img/detailview_actieve_openbaarmaking.svg" alt="Een detailview in Archimate van de doelgerichte functie 'Actieve openbaarmaking'" title="Een detailview van de doelgerichte functie 'Actieve openbaarmaking'" style="width: 60%;">
+<img src="./img/detailview_actieve_openbaarmaking.svg" alt="Een detailview in Archimate van de doelgerichte functie 'Actieve openbaarmaking'" title="Een detailview van de doelgerichte functie 'Actieve openbaarmaking'" style="width: 64%;">
