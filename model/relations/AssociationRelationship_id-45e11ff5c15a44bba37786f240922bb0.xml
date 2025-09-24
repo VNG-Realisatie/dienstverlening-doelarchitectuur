@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="presenteert informatie over"
+    name="is doelgroepspecifieke projectie op"
     id="id-45e11ff5c15a44bba37786f240922bb0"
     directed="true">
   <source

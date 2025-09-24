@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="luistert naar gebeurtenissen over"
+    name="biedt inzage in verwerkingen binnen"
     id="id-10d1e168e4f1464787f10837825bd965"
     directed="true">
   <source

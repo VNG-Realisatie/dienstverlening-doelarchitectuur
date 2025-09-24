@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="wordt verstuurd als gevolg van"
+    name="is een soort"
     id="id-5931f0b0bb7043d79f5a06d7eeb3b5f3"
     directed="true">
   <source
