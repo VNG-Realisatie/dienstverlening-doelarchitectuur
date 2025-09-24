@@ -9,7 +9,7 @@ category: none
 
 <img src="./img/overzicht_op_hoofdlijnen_van_generieke_dienstverleningselementen.svg" alt="Overzicht in Archimate van generieke dienstverleningselementen en relaties daartussen" title="Overzicht op hoofdlijnen van generieke dienstverleningselementen en relaties daartussen" style="width: 100%;">
 
-<img src="./img/legenda.svg" alt="Legenda die de gebruikte elementen en hun relaties verklaart" title="Legenda" style="width: 30%;">
+<img src="./img/legenda.svg" alt="Legenda die de gebruikte elementen en hun relaties verklaart" title="Legenda" style="width: 38%;">
 
 ## Detailviews voor doelgerichte functies
 
