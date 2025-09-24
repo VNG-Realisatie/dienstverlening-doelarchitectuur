@@ -7,7 +7,9 @@ category: none
 
 # Overzicht van generieke dienstverleningselementen
 
-<img src="./img/overzicht_functies_en_concepten.svg" alt="Overzicht in Archimate van generieke dienstverleningselementen" title="Overzicht op hoofdlijnen van generieke dienstverleningselementen" style="width: 100%;">
+<img src="./img/overzicht_generieke_dienstverleningselementen.svg" alt="Overzicht in Archimate van generieke dienstverleningselementen" title="Overzicht op hoofdlijnen van generieke dienstverleningselementen" style="width: 100%;">
+
+<img src="./img/legenda.svg" alt="Legenda" title="Legenda" style="width: 28%;">
 
 ## Detailviews voor doelgerichte functies
 
