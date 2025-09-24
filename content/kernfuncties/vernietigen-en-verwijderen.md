@@ -7,4 +7,4 @@ category: kernfunctie
 
 # Vernietigen en verwijderen
 
-<img src="./img/detailview_vernietigen.svg" alt="Een detailview in Archimate van het kernconcept 'Vernietigen en verwijderen'" title="Een detailview van het kernconcept 'Vernietigen en verwijderen'" style="width: 64%;">
+<img src="./img/detailview_vernietigen.svg" alt="Een detailview in Archimate voor de kernfunctie 'Vernietigen en verwijderen'" title="Een detailview voor de kernfunctie 'Vernietigen en verwijderen'" style="width: 64%;">

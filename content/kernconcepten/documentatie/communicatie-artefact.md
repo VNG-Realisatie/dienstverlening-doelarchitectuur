@@ -7,4 +7,4 @@ category: kernconcept
 
 # Communicatie-artefact
 
-<img src="./img/detailview_communicatie-artefact.svg" alt="Een detailview in Archimate van het kernconcept 'Communicatie-artefact'" title="Een detailview van het kernconcept 'Communicatie-artefact'" style="width: 64%;">
+<img src="./img/detailview_communicatie-artefact.svg" alt="Een detailview in Archimate voor het kernconcept 'Communicatie-artefact'" title="Een detailview voor het kernconcept 'Communicatie-artefact'" style="width: 64%;">

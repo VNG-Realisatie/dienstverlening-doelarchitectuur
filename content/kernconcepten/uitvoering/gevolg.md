@@ -7,4 +7,4 @@ category: kernconcept
 
 # Gevolg
 
-<img src="./img/detailview_gevolg.svg" alt="Een detailview in Archimate van het kernconcept 'Gevolg'" title="Een detailview van het kernconcept 'Gevolg'" style="width: 72%;">
+<img src="./img/detailview_gevolg.svg" alt="Een detailview in Archimate voor het kernconcept 'Gevolg'" title="Een detailview voor het kernconcept 'Gevolg'" style="width: 72%;">
