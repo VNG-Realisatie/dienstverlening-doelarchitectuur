@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overzicht functies en concepten met links"
+    name="Overzicht op hoofdlijnen van generieke dienstverleningselementen met links"
     id="id-16ecb149b7504b9ea9f7d44079143655">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1511,105 +1511,5 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-c787160dd1f1489fb794ab0e77118baf.xml#id-c787160dd1f1489fb794ab0e77118baf"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-1c64730c931d404585367a949f95db44"
-      name="Legenda"
-      textAlignment="1"
-      fillColor="#efefef">
-    <bounds
-        x="-200"
-        y="104"
-        width="273"
-        height="265"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-0f57ade488254684997ba8d17714a8fd"
-        textAlignment="1"
-        fillColor="#fffff9">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-530dd0030114425abe9b1ebac492e525"
-          source="id-0f57ade488254684997ba8d17714a8fd"
-          target="id-79d16420485b4a7287e797e170a65741">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-110927b36f364db59c671c5a2d6b0a87.xml#id-110927b36f364db59c671c5a2d6b0a87"/>
-      </sourceConnections>
-      <bounds
-          x="16"
-          y="40"
-          width="241"
-          height="209"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-79d16420485b4a7287e797e170a65741"
-          targetConnections="id-530dd0030114425abe9b1ebac492e525"
-          font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
-          fillColor="#ffffd5">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-a5d5d78a63fb45a99c64f376b76c372d"
-            source="id-79d16420485b4a7287e797e170a65741"
-            target="id-5e29886b54c348539e592ca0a34396d7">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-361c6fd6df5b4a7e8a23ac3070b31a48.xml#id-361c6fd6df5b4a7e8a23ac3070b31a48"/>
-        </sourceConnections>
-        <bounds
-            x="24"
-            y="24"
-            width="193"
-            height="161"/>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-5e29886b54c348539e592ca0a34396d7"
-            targetConnections="id-5ce6762b81364954a26d7edde093cb20 id-a5d5d78a63fb45a99c64f376b76c372d"
-            fillColor="#fefeab"
-            textPosition="1">
-          <sourceConnections
-              xsi:type="archimate:DiagramModelArchimateConnection"
-              id="id-5ce6762b81364954a26d7edde093cb20"
-              font="1|Figtree|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
-              textPosition="2"
-              source="id-5e29886b54c348539e592ca0a34396d7"
-              target="id-5e29886b54c348539e592ca0a34396d7">
-            <bendpoints
-                startX="-80"
-                startY="-24"
-                endX="-80"
-                endY="-24"/>
-            <bendpoints
-                startX="-80"
-                startY="-56"
-                endX="-80"
-                endY="-56"/>
-            <bendpoints
-                startX="-48"
-                startY="-56"
-                endX="-48"
-                endY="-56"/>
-            <archimateRelationship
-                xsi:type="archimate:AssociationRelationship"
-                href="AssociationRelationship_id-03e1ca99ad7e40ab9894883fcc1e588c.xml#id-03e1ca99ad7e40ab9894883fcc1e588c"/>
-          </sourceConnections>
-          <bounds
-              x="40"
-              y="56"
-              width="129"
-              height="81"/>
-          <archimateElement
-              xsi:type="archimate:BusinessObject"
-              href="BusinessObject_id-8f2f5c7d035949a9885187de18f354ec.xml#id-8f2f5c7d035949a9885187de18f354ec"/>
-        </children>
-        <archimateElement
-            xsi:type="archimate:BusinessFunction"
-            href="BusinessFunction_id-2e95d2f7d47d4f9cb5bc6a20005f8c3e.xml#id-2e95d2f7d47d4f9cb5bc6a20005f8c3e"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:Grouping"
-          href="Grouping_id-ca5208da4abf4198a26dbbb49847ff57.xml#id-ca5208da4abf4198a26dbbb49847ff57"/>
-    </children>
   </children>
 </archimate:ArchimateDiagramModel>
