@@ -6,9 +6,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1a2ba4a472fb4733aa6d05e3b2b364cc"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
+      font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
       lineWidth="3"
-      fillColor="#ffffea"
+      fillColor="#f3f2ff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -55,8 +55,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-79850086bd7b41a8bb6165df1c0afd62"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
-      fillColor="#ffffea">
+      fillColor="#fff2ea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ae1a848a1aea404d8be216f7f5f4e839"
@@ -84,7 +83,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d365d789557f4ea68ad6c6a1ddb6730a"
         targetConnections="id-4727dbe40d0b43e2b00fa1904f844c25 id-01a0d85ecfa84c59b2a9af036db1c294"
-        fillColor="#fefeb4"
+        font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
+        fillColor="#fed5c0"
         textPosition="1">
       <bounds
           x="33"
@@ -99,6 +99,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-86173f5c2d124bde8008ebee772d7e32"
         targetConnections="id-ae1a848a1aea404d8be216f7f5f4e839 id-36a54fd83d59492f984b5e84a249ce12"
+        fillColor="#fed5c0"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -127,8 +128,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3d6f0288c15f43419a6e0a4eb30402e2"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
-      fillColor="#ffffea">
+      fillColor="#fff2ea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-95ea150d501d43faa49965f2fe43b250"
@@ -147,7 +147,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3c25cb91ed8c4c7f92a964a01cf5dc55"
         targetConnections="id-fcf133100d0f467cbed5720e764e6ec2 id-95ea150d501d43faa49965f2fe43b250 id-3d0728d5be134564a11c36e253605f0d"
-        fillColor="#fefeab"
+        font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
+        fillColor="#fed5c0"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -194,8 +195,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b155e541441343708b76be8f1c7edb93"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
-      fillColor="#ffffea">
+      fillColor="#fff2ea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e4c60ef0ed9b4f5a934c8c23023696a9"
@@ -214,7 +214,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a1e1e11bc34b482d9e3b0ef86d128c25"
         targetConnections="id-e4c60ef0ed9b4f5a934c8c23023696a9 id-33b97dd9cb134548898771a773061f1a"
-        fillColor="#fefeab"
+        font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
+        fillColor="#fed5c0"
         textPosition="1">
       <bounds
           x="32"

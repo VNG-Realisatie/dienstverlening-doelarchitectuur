@@ -6,9 +6,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2ba34e1d6db04f2f9778eb0cfb022e0e"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
+      font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
       lineWidth="3"
-      fillColor="#ffffea">
+      fillColor="#eaffec">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bff24a3fbc104c12b530717df34efda2"
@@ -27,7 +27,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4f435ec3e5874e12ae24de3fffc9b9fc"
         targetConnections="id-bff24a3fbc104c12b530717df34efda2"
-        fillColor="#fefeab"
+        fillColor="#bafebf"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -70,8 +70,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1e7c153578904a618727b7642289246b"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
-      fillColor="#ffffea">
+      fillColor="#fff2ea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-34f3c5a81d21489485c446c0dadab35d"
@@ -99,7 +98,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-82496679d1834992900a9779f66b206f"
         targetConnections="id-5eb7b65d896046f098029e80799c087f id-1f0c8ffa7fba4b9687e2029b1e0e519b id-6c4f252bf2c544718e4dda497bae7972"
-        fillColor="#fefeab"
+        font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
+        fillColor="#fed5c0"
         textPosition="1">
       <bounds
           x="32"
@@ -114,7 +114,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-18ca2fac0eff4eaf903fab5815bc0d20"
         targetConnections="id-34f3c5a81d21489485c446c0dadab35d id-a940f146549e41fd8fc2a66e8c1a04f0"
-        fillColor="#fefeab"
+        font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
+        fillColor="#fed5c0"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

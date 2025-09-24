@@ -6,9 +6,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7c6da8309ca24aedb0ece2bd1c77da44"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
+      font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
       lineWidth="3"
-      fillColor="#ffffea"
+      fillColor="#f3f2ff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -34,9 +34,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8ff5c3790689494882b01fc5e4c6ac67"
       targetConnections="id-182d9f5121e84438ba146d897be6852e"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
       lineWidth="3"
-      fillColor="#ffffea"
+      fillColor="#f3f2ff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -61,8 +60,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-512e76eb4a4c42b79c8cf9f59bed264d"
-      font="1|Figtree SemiBold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|2|Figtree SemiBold"
-      fillColor="#ffffea">
+      fillColor="#fff2ea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-21be0efb11c04f659192a52ebecad4bf"
@@ -90,7 +88,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9bb86941f7d34432a00cad414eb47afa"
         targetConnections="id-21be0efb11c04f659192a52ebecad4bf"
-        fillColor="#fefeb4"
+        font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
+        fillColor="#fed5c0"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -119,6 +118,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-64c07d5113834f00a768908d740a07f3"
         targetConnections="id-e74a8b294bd5418b85cbcbea2afbf44c id-f6c0064580fa4ee3823d65b32c8352cd id-a0766dae924247a9aa7a50f9d5665efc"
+        fillColor="#fed5c0"
         textPosition="1">
       <bounds
           x="32"
