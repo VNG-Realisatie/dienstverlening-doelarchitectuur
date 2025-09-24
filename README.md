@@ -16,9 +16,9 @@
 
 Direct naar:
 
-- [`Doelgerichte functies`](toelichting/doelgerichte_functies.md)
-- [`Kernfuncties`](toelichting/kernfuncties.md)
-- [`Kernconcepten`](toelichting/kernconcepten.md)
+- [`Doelgerichte functies`](./content/doelgerichte-functies/index.md)
+- [`Kernfuncties`](./content/kernfuncties/index.md)
+- [`Kernconcepten`](./content/kernconcepten/index.md)
 
 ## Status
 
