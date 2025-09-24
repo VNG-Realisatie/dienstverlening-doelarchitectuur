@@ -27,9 +27,9 @@
           href="AccessRelationship_id-254f3d49bac14c8bac7a0263899dea57.xml#id-254f3d49bac14c8bac7a0263899dea57"/>
     </sourceConnections>
     <bounds
-        x="112"
+        x="104"
         y="632"
-        width="409"
+        width="417"
         height="153"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -65,7 +65,7 @@
             href="AssociationRelationship_id-1d675e8db02d404a950ba7a63c61bfe8.xml#id-1d675e8db02d404a950ba7a63c61bfe8"/>
       </sourceConnections>
       <bounds
-          x="248"
+          x="256"
           y="40"
           width="129"
           height="81"/>
@@ -92,8 +92,8 @@
           href="AccessRelationship_id-ab6ef7714a044f14b475b61af8009d0d.xml#id-ab6ef7714a044f14b475b61af8009d0d"/>
     </sourceConnections>
     <bounds
-        x="328"
-        y="456"
+        x="552"
+        y="633"
         width="193"
         height="152"/>
     <children
@@ -106,7 +106,6 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-eb4ab7ecceff4c618025c49a84e966ff"
           font="1|Figtree|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
-          textPosition="2"
           source="id-7108f791dfcd494c98fca71cb53dff3a"
           target="id-7108f791dfcd494c98fca71cb53dff3a">
         <bendpoints

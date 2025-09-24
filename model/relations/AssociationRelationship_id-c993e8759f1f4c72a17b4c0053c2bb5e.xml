@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ontstaat als gevolg van"
+    name="is een soort"
     id="id-c993e8759f1f4c72a17b4c0053c2bb5e"
     directed="true">
   <source
