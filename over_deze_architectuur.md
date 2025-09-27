@@ -12,7 +12,7 @@ De context van deze architectuur is al op diverse plaatsen beschreven en wordt g
 
 De huidige focus van Common Ground zijn de generieke aspecten van dienstverlening. (Zie [realisatiekoers](https://commonground.nl/page/view/f9c0b4bc-fbe5-4c2e-8fa5-d747a52fd58e/realisatiekoers-common-ground) en [programmaplan](https://commonground.nl/page/view/99b21b0c-06d7-46b6-b870-b76d9689e34e/programma-common-ground)).
 
-Vaak noemen we dit kortweg 'Generieke Dienstverlening', maar dat is goed beschouwd een beetje vreemd term. Burger en ondernemers hebben immers behoefte aan 'specifieke' dienstverlening. Vandaar dat we in de architectuur praten over `Generieke Dienstverleningselementen` (`GDE's`). Dat zijn elementen die we - ongeachte het vakgebied of domein - nodig hebben in onze dienstverlening.
+Vaak noemen we dit kortweg 'Generieke Dienstverlening', maar dat is goed beschouwd een beetje vreemde term. Burger en ondernemers hebben immers behoefte aan 'specifieke' dienstverlening. Vandaar dat we in de architectuur praten over `Generieke Dienstverleningselementen` (`GDE's`). Dat zijn elementen die we - ongeachte het vakgebied of domein - nodig hebben in onze dienstverlening.
 
 ## Introductie (in beelden)
 
@@ -32,6 +32,20 @@ Zo gaan we er van uit dat:
 
 - Er vakapplicaties bestaan. Niet alle processen zijn gedefinieerd in talen zoals BPMN, CMMN of DMN en 'leven' in generieke procesengines. (We bemoeien ons overigens ook niet met de vraag of dit kan en wenselijk is).
 - We in vakapplicaties processen en gegevens nog niet volledig hebben kunnen scheiden.
+
+## De bouwstenen van deze architectuur: Generieke Dienstverleningselementen (GDE's)
+
+We spraken eerder over 'Generieke aspecten van de dienstverlening'. Een paar voorbeelden: Toegangsverlening, het informeren van klanten vanuit een proces, duurzame toegankelijkheid of logging i.v.m. privacy en security.
+
+In deze architectuur vertalen we dit soort aspecten naar concretere bouwblokken: `Generieke Dienstverleningselementen`. Je zou dit kunnen zien als 'mentale' bouwblokken. Ieder van deze bouwblokken wordt nader uitgewerkt. Uiteindelijk leidt dat tot componenten die ontworpen en gemaakt kunnen worden zoals software services en registers.
+
+We onderscheiden drie categorieën van `Generieke Dienstverleningselementen`:
+
+1. [`Doelgerichte functies`](./content/doelgerichte-functies/index.md): Functies die vanuit een specifiek perspectief of behoefte kijken naar de kernconcepten in de gemeente.
+2. [`Kernfuncties`](./content/kernfuncties/index.md): Functies die vrijwel iedere applicatie nodig heeft om te kunnen functioneren.
+3. [`Kernconcepten`](./content/kernconcepten/index.md): De fundamentele concepten die de basis vormen voor dienstverlening.
+
+De GDE's komen samen in [dit overzicht](./content/index.md).
 
 ## Wat hopen we met deze architectuur te bereiken?
 
@@ -71,15 +85,3 @@ We hopen met deze architectuur:
 3. Een `mogelijke transitie` te beschrijven.
 
    Door te beschrijven wat we nu al hebben en dit vergelijken met het doel.
-
-## De bouwstenen van deze architectuur: Generieke Dienstverleningselementen (GDE's)
-
-We spraken eerder over 'Generieke aspecten van de dienstverlening'. Een paar voorbeelden: Toegangsverlening, het informeren van klanten vanuit een proces, duurzame toegankelijkheid of logging i.v.m. privacy en security.
-
-In deze architectuur vertalen we dit soort aspecten naar concretere bouwblokken: `Generieke Dienstverleningselementen`. Je zou dit kunnen zien als 'mentale' bouwblokken. Ieder van deze bouwblokken wordt nader uitgewerkt. Uiteindelijk leidt dat tot componenten die ontworpen en gemaakt kunnen worden zoals software services en registers.
-
-We onderscheiden drie categorieën van `Generieke Dienstverleningselementen`:
-
-1. `Doelgerichte functies`: Functies die vanuit een specifiek perspectief of behoefte kijken naar de kernconcepten in de gemeente.
-2. `Kernfuncties`: Functies die vrijwel iedere applicatie nodig heeft om te kunnen functioneren.
-3. `Kernconcepten`: De fundamentele concepten die de basis vormen voor dienstverlening.
