@@ -1,5 +1,9 @@
 # Change log
 
+27 september:
+
+- Visuele introductie toegevoegd (zie [over deze architectuur](over_deze_architectuur.md)).
+
 24 september:
 
 - Introductieteksten

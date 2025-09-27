@@ -31,6 +31,10 @@ Dit is een eerste concept, bedoeld om met elkaar in gesprek te gaan.
 
 ## Laatste wijzigingen
 
+27 september:
+
+- Visuele introductie toegevoegd (zie [over deze architectuur](over_deze_architectuur.md)).
+
 24 september:
 
 - Introductieteksten
@@ -39,7 +43,6 @@ Dit is een eerste concept, bedoeld om met elkaar in gesprek te gaan.
 
 We zijn bezig met:
 
-- Beschrijving van rationale bij de indeling die gemaakt is.
 - Beknopte toelichting bij afbeeldingen
 
 Klik [hier](change_log.md) voor een volledig overzicht van wijzigngen.
