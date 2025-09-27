@@ -14,6 +14,10 @@ De huidige focus van Common Ground zijn de generieke aspecten van dienstverlenin
 
 Vaak noemen we dit kortweg 'Generieke Dienstverlening', maar dat is goed beschouwd een beetje vreemd term. Burger en ondernemers hebben immers behoefte aan 'specifieke' dienstverlening. Vandaar dat we in de architectuur praten over `Generieke Dienstverleningselementen` (`GDE's`). Dat zijn elementen die we - ongeachte het vakgebied of domein - nodig hebben in onze dienstverlening.
 
+## Introductie
+
+[test](Introductie_DIDO.pdf)
+
 ## Op welk 'Doel' richt deze architectuur zich?
 
 Het 'doel' waarop deze architectuur zich richt is niet enig eindbeeld dat bestaat bij de visie Common Ground. Bijvoorbeeld een landschap waarin alle informatiekundige principes volledig zijn doorgevoerd. We richten ons nadrukkelijk op een landschap waarin dat nog niet volledig is gebeurd.
