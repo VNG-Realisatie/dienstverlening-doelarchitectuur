@@ -16,7 +16,7 @@ Vaak noemen we dit kortweg 'Generieke Dienstverlening', maar dat is goed beschou
 
 ## Introductie
 
-[test](Introductie_DIDO.pdf)
+[Open in Google Docs Viewer](https://docs.google.com/gview?embedded=true&url=https://github.com/VNG-Realisatie/dienstverlening-doelarchitectuur/blob/main/Introductie_DIDO.pdf)
 
 ## Op welk 'Doel' richt deze architectuur zich?
 
