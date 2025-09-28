@@ -13,7 +13,7 @@ Direct naar: [`Doelgerichte functies`](./doelgerichte-functies/index.md), [`Kern
 
 Zoals in [de introductie](/over_deze_architectuur.md#introductie-in-beelden) toegelicht onderkennen we drie soorten `Generieke Dienstverleningselementen`.
 
-Links boven staan de [`Kernconcepten`](./kernconcepten/index.md). Ze zijn een abstractie van wat zich aan de binnenkant van de gemeentelijke applicaties afspeelt. Deze abstractie beperkt zich tot de informatie die nodig is om de [`Doelgerichte functies`](./doelgerichte-functies/index.md) te kunnen bedienen. In veel gevallen is dat het inzien van informatie, maar in sommige gevallen betreft het ook beperkte interactie met de applicaties. Bijvoorbeeld als een partij iets aanleveren via het MijnServices portaal.
+Links boven staan de [`Kernconcepten`](./kernconcepten/index.md). Ze zijn een abstractie van wat zich aan de binnenkant van de gemeentelijke applicaties afspeelt. Deze abstractie beperkt zich tot de informatie die nodig is om de [`Doelgerichte functies`](./doelgerichte-functies/index.md) te kunnen bedienen. In veel gevallen is dat het inzien van informatie, maar in sommige gevallen betreft het ook beperkte interactie met de applicaties. Bijvoorbeeld als een partij iets moet aanleveren via het MijnServices portaal.
 
 Rechts boven zien we de [`Kernfuncties`](./kernfuncties/index.md): generieke functionaliteit die in de meeste applicaties voorkomt. Rechts onder is voor de volledigheid het datagedreven werken getoond. Een onderwerp dat verder buiten de scope van deze doelarchitectuur valt (Zie [Gemeentelijk GegevensModel](https://www.gemeentelijkgegevensmodel.nl/)).
 
