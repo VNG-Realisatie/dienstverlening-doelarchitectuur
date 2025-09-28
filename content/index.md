@@ -7,38 +7,7 @@ category: none
 
 # Overzicht (op hoofdlijnen) van generieke dienstverleningselementen
 
-<svg viewBox="0 0 100 100" width="100%" xmlns="http://www.w3.org/2000/svg">
-
-  <title>Overzicht in Archimate van generieke dienstverleningselementen en relaties daartussen</title>
-
-  <image href="./img/overzicht_op_hoofdlijnen_van_generieke_dienstverleningselementen.svg"
-         x="0" y="0" width="100" height="100" preserveAspectRatio="xMidYMid meet" />
-
-  <a href="#left-upper" target="./kernconcepten/index.md">
-    <rect x="0" y="0" width="83" height="74"
-          fill="white" fill-opacity="0" pointer-events="all"
-          style="cursor:pointer" />
-  </a>
-
-  <a href="#left-lower" target="./doelgerichte-functies/index.md">
-    <rect x="0" y="74" width="17" height="26"
-          fill="white" fill-opacity="0" pointer-events="all"
-          style="cursor:pointer" />
-  </a>
-
-  <a href="#right-upper" target="./kernfuncties/index.md">
-    <rect x="17" y="0" width="83" height="63"
-          fill="white" fill-opacity="0" pointer-events="all"
-          style="cursor:pointer" />
-  </a>
-
-  <a href="#right-lower" target="./datagedreven-werken/index.md">
-    <rect x="83" y="63" width="17" height="37"
-          fill="white" fill-opacity="0" pointer-events="all"
-          style="cursor:pointer" />
-  </a>
-</svg>
-
+<img src="./img/overzicht_op_hoofdlijnen_van_generieke_dienstverleningselementen.svg" alt="Overzicht in Archimate van generieke dienstverleningselementen en relaties daartussen" title="Overzicht op hoofdlijnen van generieke dienstverleningselementen en relaties daartussen" style="width: 100%;">
 
 Zoals in [de introductie](./over_deze_architectuur.md#introductie-in-beelden) toegelicht onderkennen we drie soorten `Generieke Dienstverleningselementen`.
 
@@ -51,8 +20,6 @@ Rechts boven zien we de [`Kernfuncties`](./kernfuncties/index/.md): generieke fu
 // TODO: Indeling veranderen comform introductie? -> Doelgerichte functies boven, kernconcepten in het midden, datagedrevenwerken onder? En dan functies links en rechts?
 
 // TODO: Menu hieronder weg? Moet nu zowel op pagina's als hier onderhouden worden.
-
-<img src="./img/overzicht_op_hoofdlijnen_van_generieke_dienstverleningselementen.svg" alt="Overzicht in Archimate van generieke dienstverleningselementen en relaties daartussen" title="Overzicht op hoofdlijnen van generieke dienstverleningselementen en relaties daartussen" style="width: 100%;">
 
 ## Detailviews voor doelgerichte functies
 
