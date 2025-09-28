@@ -17,9 +17,7 @@
 ## Inhoud
 
 - [`Overzicht (op hoofdlijnen) van dienstverleningselementen`](./content/index.md)
-- [`Doelgerichte functies`](./content/doelgerichte-functies/index.md)
-- [`Kernfuncties`](./content/kernfuncties/index.md)
-- [`Kernconcepten`](./content/kernconcepten/index.md)
+- Direct naar: [`Doelgerichte functies`](./doelgerichte-functies/index.md), [`Kernconcepten`](./kernconcepten/index.md), [`Kernfuncties`](./kernfuncties/index.md).
 
 ## Status
 
