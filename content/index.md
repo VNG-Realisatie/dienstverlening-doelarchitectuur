@@ -7,6 +7,8 @@ category: none
 
 # Overzicht (op hoofdlijnen) van generieke dienstverleningselementen
 
+Direct naar: [`Doelgerichte functies`](./doelgerichte-functies/index.md), [`Kernconcepten`](./kernconcepten/index.md), [`Kernfuncties`](./kernfuncties/index/.md).
+
 <img src="./img/overzicht_op_hoofdlijnen_van_generieke_dienstverleningselementen.svg" alt="Overzicht in Archimate van generieke dienstverleningselementen en relaties daartussen" title="Overzicht op hoofdlijnen van generieke dienstverleningselementen en relaties daartussen" style="width: 100%;">
 
 Zoals in [de introductie](./over_deze_architectuur.md#introductie-in-beelden) toegelicht onderkennen we drie soorten `Generieke Dienstverleningselementen`.
