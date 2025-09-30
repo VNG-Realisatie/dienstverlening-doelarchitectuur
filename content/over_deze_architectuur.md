@@ -16,8 +16,8 @@ Vaak noemen we dit kortweg 'Generieke Dienstverlening', maar dat is goed beschou
 
 ## Introductie (in beelden)
 
-<a href="./introductie/Introductie_DIDO.pdf">
-  <img src="./introductie/Introductie_DIDO.png" width="70%">
+<a href="Introductie_DIDO.pdf">
+  <img src="Introductie_DIDO.png" width="70%">
 </a>
 
 _Klik op de afbeelding om de PDF in te zien._
