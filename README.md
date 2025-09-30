@@ -10,18 +10,18 @@
 
 - [Status](#status)
 - [Laatste wijzigingen](#laatste-wijzigingen)
-- [Over deze architectuur](over_deze_architectuur.md)
-- [Relatie met andere architecturen en initiatieven](relatie_met_andere_architecturen_en_initiatieven.md)
-- [Het DIDO-team](het_dido_team.md)
+- [Over deze architectuur](/content/over_deze_architectuur.md)
+- [Relatie met andere architecturen en initiatieven](/content/relatie_met_andere_architecturen_en_initiatieven.md)
+- [Het DIDO-team](/content/het_dido_team.md)
 
 ## Inhoud
 
-- [`Overzicht (op hoofdlijnen) van dienstverleningselementen`](./content/index.md)
-- Direct naar: [`Doelgerichte functies`](./doelgerichte-functies/index.md), [`Kernconcepten`](./kernconcepten/index.md), [`Kernfuncties`](./kernfuncties/index.md).
+- [`Overzicht (op hoofdlijnen) van dienstverleningselementen`](/content/index.md)
+- Direct naar: [`Doelgerichte functies`](/content/doelgerichte-functies/index.md), [`Kernconcepten`](/content/kernconcepten/index.md), [`Kernfuncties`](/content/kernfuncties/index.md).
 
 ## Status
 
-Zie ['Over deze architectuur'](over_deze_architectuur.md) voor onze plannen op hoofdlijnen. We beschrijven daarin drie doelen: `overzicht`, `inzicht` en `mogelijke transitie`.
+Zie ['Over deze architectuur'](/content/over_deze_architectuur.md) voor onze plannen op hoofdlijnen. We beschrijven daarin drie doelen: `overzicht`, `inzicht` en `mogelijke transitie`.
 
 Op dit moment geven we een eerste `overzicht` in de benodigde elementen en geven we voor een deel van de elementen `inzicht`. Vanuit het architectuurteam van Common Ground wordt gewerkt aan een overzicht van alle bestaande componenten dat we nodig hebben voor de `mogelijke transitie`.
 
@@ -35,7 +35,7 @@ Dit is een eerste concept, bedoeld om met elkaar in gesprek te gaan.
 
 27 september:
 
-- Visuele introductie toegevoegd (zie [over deze architectuur](over_deze_architectuur.md)).
+- Visuele introductie toegevoegd (zie [over deze architectuur](/content/over_deze_architectuur.md)).
 
 24 september:
 
@@ -47,4 +47,4 @@ We zijn bezig met:
 
 - Beknopte toelichting bij afbeeldingen
 
-Klik [hier](change_log.md) voor een volledig overzicht van wijzigngen.
+Klik [hier](/content/change_log.md) voor een volledig overzicht van wijzigngen.
