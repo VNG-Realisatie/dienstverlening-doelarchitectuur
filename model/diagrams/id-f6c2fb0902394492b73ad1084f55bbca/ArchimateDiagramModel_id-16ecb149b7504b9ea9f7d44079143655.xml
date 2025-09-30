@@ -993,6 +993,24 @@
             xsi:type="archimate:BusinessObject"
             href="BusinessObject_id-40056989a9e84149a38bc0aa202c96bc.xml#id-40056989a9e84149a38bc0aa202c96bc"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-04f492fbe5404d4389754e69b049a8d7"
+          font="1|Figtree|8.25|2|WINDOWS|1|-11|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
+          alpha="0"
+          textPosition="2">
+        <features
+            name="lineAlpha"
+            value="0"/>
+        <bounds
+            x="1"
+            y="24"
+            width="192"
+            height="129"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-14d15ade4a4442ac8f76d88ff9959d17.xml#id-14d15ade4a4442ac8f76d88ff9959d17"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-eb7703491ae643b698fa8df021c12ee0.xml#id-eb7703491ae643b698fa8df021c12ee0"/>
