@@ -35,7 +35,7 @@ Dit is een eerste concept, bedoeld om met elkaar in gesprek te gaan.
 
 27 september:
 
-- Visuele introductie toegevoegd (zie [over deze architectuur](over_deze_architectuur.md)).
+- Visuele introductie toegevoegd (zie [over deze architectuur](/content/over_deze_architectuur.md)).
 
 24 september:
 
@@ -47,4 +47,4 @@ We zijn bezig met:
 
 - Beknopte toelichting bij afbeeldingen
 
-Klik [hier](change_log.md) voor een volledig overzicht van wijzigngen.
+Klik [hier](/content/change_log.md) voor een volledig overzicht van wijzigngen.
