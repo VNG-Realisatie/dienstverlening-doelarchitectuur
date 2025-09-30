@@ -7,6 +7,8 @@ category: none
 
 # Overzicht van kernfuncties
 
+Kernfuncties beschrijven generieke functionaliteit die in de meeste applicaties voorkomt.
+
 - [Authenticatie](./authenticatie.md)
 - [Compliance management](./compliance-management.md)
 - [Toegangsverlening](./toegangsverlening.md)

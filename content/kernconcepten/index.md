@@ -7,6 +7,8 @@ category: none
 
 # Overzicht van kernconcepten
 
+De kernconcepten zijn een abstractie van wat zich aan de binnenkant van de gemeentelijke applicaties afspeelt. Deze abstractie beperkt zich tot de informatie die nodig is om de [`Doelgerichte functies`](/doelgerichte-functies/index.md) te kunnen bedienen. In veel gevallen is dat het inzien van informatie, maar in sommige gevallen betreft het ook beperkte interactie met de applicaties. Bijvoorbeeld als een partij iets moet aanleveren via het MijnServices portaal.
+
 ## Specificatie
 
 - [Bedrijfsprocesdefinitie](./specificatie/bedrijfsprocesdefinitie.md)
