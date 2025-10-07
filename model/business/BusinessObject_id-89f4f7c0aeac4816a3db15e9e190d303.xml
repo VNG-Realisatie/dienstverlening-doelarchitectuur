@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Partij"
-    id="id-89f4f7c0aeac4816a3db15e9e190d303"/>
+    id="id-89f4f7c0aeac4816a3db15e9e190d303"
+    documentation="Persoon of organisatie waarmee de gemeente een relatie heeft"/>

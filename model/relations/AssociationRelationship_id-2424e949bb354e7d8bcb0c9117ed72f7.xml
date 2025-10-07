@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert doelgroepgerichte toegang tot"
+    id="id-2424e949bb354e7d8bcb0c9117ed72f7"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-2b117cc2e43949b587b2b565fc17e190.xml#id-2b117cc2e43949b587b2b565fc17e190"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-18dbc483a341494b9f819068cdea41ca.xml#id-18dbc483a341494b9f819068cdea41ca"/>
+</archimate:AssociationRelationship>

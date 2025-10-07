@@ -91,20 +91,6 @@
         font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
         fillColor="#fed5c0"
         textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-f6c0064580fa4ee3823d65b32c8352cd"
-          font="1|Figtree|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
-          textPosition="2"
-          source="id-9bb86941f7d34432a00cad414eb47afa"
-          target="id-64c07d5113834f00a768908d740a07f3">
-        <bendpoints
-            startY="-48"
-            endY="64"/>
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-57a32c6259b248febda58d8c286af341.xml#id-57a32c6259b248febda58d8c286af341"/>
-      </sourceConnections>
       <bounds
           x="32"
           y="152"
@@ -117,7 +103,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-64c07d5113834f00a768908d740a07f3"
-        targetConnections="id-e74a8b294bd5418b85cbcbea2afbf44c id-f6c0064580fa4ee3823d65b32c8352cd id-a0766dae924247a9aa7a50f9d5665efc"
+        targetConnections="id-e74a8b294bd5418b85cbcbea2afbf44c id-a0766dae924247a9aa7a50f9d5665efc"
         fillColor="#fed5c0"
         textPosition="1">
       <bounds

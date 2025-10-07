@@ -158,6 +158,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-87570f0e32f24398bdb569bf97d2ef3e"
+          font="1|Figtree|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
           textPosition="2"
           source="id-5d019ac3519540f19bb35ac5d72ea2c3"
           target="id-a660d3d6c45f49029cdf5a72fb800e39">

@@ -64,17 +64,6 @@
         font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
         fillColor="#fed5c0"
         textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-51c7d899505e40eeaed0c65a45647097"
-          font="1|Figtree|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
-          textPosition="2"
-          source="id-f721da6d4eb14107850939d48104d42d"
-          target="id-6bb856e8693940789803ae424d712154">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-55ffe01189724e3b81b0d0eb44443d76.xml#id-55ffe01189724e3b81b0d0eb44443d76"/>
-      </sourceConnections>
       <bounds
           x="32"
           y="154"
@@ -87,7 +76,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6bb856e8693940789803ae424d712154"
-        targetConnections="id-51c7d899505e40eeaed0c65a45647097 id-91e12376e40144ff9e1ba3534628fa2c id-09c471ea4f7c4543b6c4180e2cca31a3"
+        targetConnections="id-91e12376e40144ff9e1ba3534628fa2c id-09c471ea4f7c4543b6c4180e2cca31a3"
         fillColor="#fed5c0"
         textPosition="1">
       <bounds

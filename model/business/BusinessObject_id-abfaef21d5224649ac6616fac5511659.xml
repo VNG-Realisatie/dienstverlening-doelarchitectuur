@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contact"
     id="id-abfaef21d5224649ac6616fac5511659"
-    documentation="Een contact tussen de overheidsorganisatie en een derde partij.">
+    documentation="Een contact tussen een of meerdere personen of organisaties en de gemeente.">
   <properties
       key="Datatype primaire view"
       value="Event list"/>
