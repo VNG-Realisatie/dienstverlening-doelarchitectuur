@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hoort bij"
+    id="id-42ba1cb8ab70422e800a5240757f26c1"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c96e7dff63104f21b7f00f198fea5adc.xml#id-c96e7dff63104f21b7f00f198fea5adc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1a1e9f7cfb204b2885816e670599d60b.xml#id-1a1e9f7cfb204b2885816e670599d60b"/>
+</archimate:AssociationRelationship>

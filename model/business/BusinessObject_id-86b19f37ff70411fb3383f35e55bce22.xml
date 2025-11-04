@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Handeling"
+    name="Werkstap"
     id="id-86b19f37ff70411fb3383f35e55bce22"
-    documentation="Kleinst mogelijke eenheid van werk, uitgevoerd door één persoon of machine op één plek op één moment">
+    documentation="Een werkstap is een onder verantwoordelijkheid van één actor handmatig of geautomatiseerd uitgevoerde reeks samenhangende handelingen.">
   <properties
       key="Datatype primaire view"/>
 </archimate:BusinessObject>

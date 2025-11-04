@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bestaat uit"
+    name="leidt tot"
     id="id-b62186b3477e4078b3931f8a219ee491"
     directed="true">
   <source

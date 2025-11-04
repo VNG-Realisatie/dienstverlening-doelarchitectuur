@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bestaat uit"
+    name="wordt ontvangen bij"
     id="id-1e4f117209c54401b32df771eee88e16"
     directed="true">
   <source
