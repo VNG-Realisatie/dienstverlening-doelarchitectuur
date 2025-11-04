@@ -16,8 +16,8 @@ Vaak noemen we dit kortweg 'Generieke Dienstverlening', maar dat is goed beschou
 
 ## Introductie (in beelden)
 
-<a href="./introductie/Introductie_DIDO.pdf">
-  <img src="./introductie/Introductie_DIDO.png" width="70%">
+<a href="Introductie_DIDO.pdf">
+  <img src="Introductie_DIDO.png" width="70%">
 </a>
 
 _Klik op de afbeelding om de PDF in te zien._
@@ -41,11 +41,11 @@ In deze architectuur vertalen we dit soort aspecten naar concretere bouwblokken:
 
 We onderscheiden drie categorieën van `Generieke Dienstverleningselementen`:
 
-1. [`Doelgerichte functies`](./content/doelgerichte-functies/index.md): Functies die vanuit een specifiek perspectief of behoefte kijken naar de kernconcepten in de gemeente.
-2. [`Kernfuncties`](./content/kernfuncties/index.md): Functies die vrijwel iedere applicatie nodig heeft om te kunnen functioneren.
-3. [`Kernconcepten`](./content/kernconcepten/index.md): De fundamentele concepten die de basis vormen voor dienstverlening.
+1. [`Doelgerichte functies`](./doelgerichte-functies/index.md): Functies die vanuit een specifiek perspectief of behoefte kijken naar de kernconcepten in de gemeente.
+2. [`Kernfuncties`](./kernfuncties/index.md): Functies die vrijwel iedere applicatie nodig heeft om te kunnen functioneren.
+3. [`Kernconcepten`](./kernconcepten/index.md): De fundamentele concepten die de basis vormen voor dienstverlening.
 
-De GDE's komen samen in [dit overzicht](./content/index.md).
+De GDE's komen samen in [dit overzicht](./index.md).
 
 ## Wat hopen we met deze architectuur te bereiken?
 
