@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werkstap"
     id="id-86b19f37ff70411fb3383f35e55bce22"
-    documentation="Een werkstap is een onder verantwoordelijkheid van één actor handmatig of geautomatiseerd uitgevoerde reeks samenhangende handelingen.">
+    documentation="Een onder verantwoordelijkheid van één actor handmatig of geautomatiseerd uitgevoerde reeks samenhangende handelingen.">
   <properties
       key="Datatype primaire view"/>
 </archimate:BusinessObject>
