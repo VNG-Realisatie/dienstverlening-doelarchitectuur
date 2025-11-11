@@ -141,7 +141,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6856ee3d356b43eb916f160a072c237b"
-        targetConnections="id-d6c766675a7f43c78efe34f09540bc23 id-cd40daccb72144faa88f35b86da2726a id-c7ee286882a74bb586d2bea481155c80 id-a30a1b9b4dc3400b85cd30fc0aaeb65b id-5a36c843d6dd477ca4a1bbed7200801b id-78c76c5459ad410683a31a4032301ce3 id-70ca08a4227844c78d303452ad39f23d id-882209e0aa6b49c2bf039501b59fbcfd id-3b5b0be038864aa1956e3f407dfcab86"
+        targetConnections="id-d6c766675a7f43c78efe34f09540bc23 id-cd40daccb72144faa88f35b86da2726a id-c7ee286882a74bb586d2bea481155c80 id-a30a1b9b4dc3400b85cd30fc0aaeb65b id-5a36c843d6dd477ca4a1bbed7200801b id-78c76c5459ad410683a31a4032301ce3 id-70ca08a4227844c78d303452ad39f23d id-882209e0aa6b49c2bf039501b59fbcfd id-3b5b0be038864aa1956e3f407dfcab86 id-8e9a86ac3486415b8e17f1ca80c7864f"
         font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
         lineWidth="3"
         fillColor="#fed5c0"
@@ -565,5 +565,20 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-eb7703491ae643b698fa8df021c12ee0.xml#id-eb7703491ae643b698fa8df021c12ee0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bf33cdaa269842f092354ac58703070e"
+      textAlignment="1"
+      content="Een gevolg moet niet bijvoorbeeld nieuw ontwikkeld beleid zijn, past nu wel in definitie (zeker in samenhang met werkdossier/werkstap). Hoe op te lossen?">
+    <sourceConnections
+        id="id-8e9a86ac3486415b8e17f1ca80c7864f"
+        source="id-bf33cdaa269842f092354ac58703070e"
+        target="id-6856ee3d356b43eb916f160a072c237b"/>
+    <bounds
+        x="1088"
+        y="120"
+        width="185"
+        height="112"/>
   </children>
 </archimate:ArchimateDiagramModel>

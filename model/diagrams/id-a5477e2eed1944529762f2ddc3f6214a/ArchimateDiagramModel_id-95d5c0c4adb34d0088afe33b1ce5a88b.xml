@@ -421,4 +421,15 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-ceead36570aa4e16a46fa0c6e59f1b59.xml#id-ceead36570aa4e16a46fa0c6e59f1b59"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9fa042f407f346a1a38c850c9eb7b01b"
+      textAlignment="1"
+      content="Aanpassen: werkstap is geen handeling">
+    <bounds
+        x="784"
+        y="528"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

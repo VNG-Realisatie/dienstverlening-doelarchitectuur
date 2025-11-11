@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="gebruikt gegevens uit"
-    id="id-9fa76b403e604654b53ea93cbb0ed5d9"
+    id="id-f16f8105a9aa4ccb902314bb11ea1c54"
     directed="true">
   <source
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-a76466ae550441648ae6f91a1073d8e8.xml#id-a76466ae550441648ae6f91a1073d8e8"/>
+      href="BusinessFunction_id-e115e9bd734b4acda105cc4a030117ed.xml#id-e115e9bd734b4acda105cc4a030117ed"/>
   <target
       xsi:type="archimate:Grouping"
       href="Grouping_id-69a376dcfcf2472e8fe3c8bf0ce97b6f.xml#id-69a376dcfcf2472e8fe3c8bf0ce97b6f"/>

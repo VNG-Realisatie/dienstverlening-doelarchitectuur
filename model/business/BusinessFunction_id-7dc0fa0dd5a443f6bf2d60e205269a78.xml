@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegangsverlening"
+    id="id-7dc0fa0dd5a443f6bf2d60e205269a78"
+    documentation="Het vaststellen van de rechten van een geauthenticeerde dienstenafnemer">
+  <properties
+      key="Toelichting"
+      value="Bijv. het vaststellen of een geauthenticeerdre afnemer rechten heeft tot inzage in bepaalde gegevens of het uitvoeren van een bepaald type transactie"/>
+  <properties
+      key="Object ID"
+      value="be46c7a7-6e38-435d-ac02-db40a8c0fe7a"/>
+</archimate:BusinessFunction>
