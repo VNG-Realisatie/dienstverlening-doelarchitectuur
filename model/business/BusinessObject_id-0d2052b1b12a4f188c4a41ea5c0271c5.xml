@@ -1,8 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Handeling (copy)"
-    id="id-0d2052b1b12a4f188c4a41ea5c0271c5"
-    documentation="Kleinst mogelijke eenheid van werk, uitgevoerd door één persoon of machine op één plek op één moment">
-  <properties
-      key="Datatype primaire view"/>
-</archimate:BusinessObject>
