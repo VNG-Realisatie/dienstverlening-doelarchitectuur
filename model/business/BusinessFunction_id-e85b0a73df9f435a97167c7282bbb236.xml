@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waarmerking"
     id="id-e85b0a73df9f435a97167c7282bbb236"
-    documentation="Het toevoegen van een waarmerk aan een document of bericht om de echtheid te bekrachtigen">
+    documentation="Het toevoegen van een waarmerk aan een document of bericht om de echtheid te bekrachtigen.">
   <properties
       key="Toelichting"
       value="Bijv. het toevoegen van een digitale handtekening aan documenten in PDF/A formaat"/>

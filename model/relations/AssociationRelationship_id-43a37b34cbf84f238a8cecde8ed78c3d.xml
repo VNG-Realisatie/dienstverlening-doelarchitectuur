@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="verwerkt"
+    name="waarborgt duurz. toegankelijkheid van"
     id="id-43a37b34cbf84f238a8cecde8ed78c3d"
     directed="true">
   <source
@@ -9,5 +9,5 @@
       href="BusinessFunction_id-136ec7e060634b799695ae0a2e000891.xml#id-136ec7e060634b799695ae0a2e000891"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-27a1c9cd65ee44bcaa8fba17cb41616d.xml#id-27a1c9cd65ee44bcaa8fba17cb41616d"/>
+      href="BusinessObject_id-86b19f37ff70411fb3383f35e55bce22.xml#id-86b19f37ff70411fb3383f35e55bce22"/>
 </archimate:AssociationRelationship>

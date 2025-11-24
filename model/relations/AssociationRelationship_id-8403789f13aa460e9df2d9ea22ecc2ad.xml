@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="kent betrokkenheid van"
+    name="vereist verwerking van gegevens over"
     id="id-8403789f13aa460e9df2d9ea22ecc2ad"
     directed="true">
   <source
@@ -9,5 +9,5 @@
       href="BusinessObject_id-86b19f37ff70411fb3383f35e55bce22.xml#id-86b19f37ff70411fb3383f35e55bce22"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-f9ee24fea7864754bae1240b066e23f8.xml#id-f9ee24fea7864754bae1240b066e23f8"/>
+      href="BusinessObject_id-89f4f7c0aeac4816a3db15e9e190d303.xml#id-89f4f7c0aeac4816a3db15e9e190d303"/>
 </archimate:AssociationRelationship>

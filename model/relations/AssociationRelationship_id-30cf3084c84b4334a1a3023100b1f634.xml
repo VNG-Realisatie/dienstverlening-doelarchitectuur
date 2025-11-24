@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="betreft overbrengen van"
+    name="dient voor overbrengen van"
     id="id-30cf3084c84b4334a1a3023100b1f634"
     directed="true">
   <source

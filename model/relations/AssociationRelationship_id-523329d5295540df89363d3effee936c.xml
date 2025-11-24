@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="verwerkt"
+    name="verwantwoordt verwerking persoonsgevevens bij"
     id="id-523329d5295540df89363d3effee936c"
     directed="true">
   <source
@@ -9,5 +9,5 @@
       href="BusinessFunction_id-ceead36570aa4e16a46fa0c6e59f1b59.xml#id-ceead36570aa4e16a46fa0c6e59f1b59"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-d714577f8de844f1b57b00507b94e928.xml#id-d714577f8de844f1b57b00507b94e928"/>
+      href="BusinessObject_id-86b19f37ff70411fb3383f35e55bce22.xml#id-86b19f37ff70411fb3383f35e55bce22"/>
 </archimate:AssociationRelationship>

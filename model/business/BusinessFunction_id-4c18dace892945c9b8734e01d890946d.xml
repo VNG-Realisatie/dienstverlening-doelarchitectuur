@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatie-extractie en opslag"
     id="id-4c18dace892945c9b8734e01d890946d"
-    documentation="Het extraheren van de inhoudelijke gegevens die via een bepaald kanaal zijn verkregen om die kanaalonafhankelijk te kunnen gaan verwerken">
+    documentation="Het extraheren van de inhoudelijke gegevens die via een bepaald kanaal zijn verkregen om die kanaalonafhankelijk te kunnen gaan verwerken.">
   <properties
       key="Toelichting"
       value="Bijv. door ongestructureerde gegevens die via een email zijn ontvangen via een eFormulier om te zetten in een standaard berichtformaat of door ontvangen gestructureerde gegevens te transformeren naar het formaat dat geautomatiseerd kan worden verwerkt"/>

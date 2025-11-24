@@ -20,7 +20,7 @@
     </sourceConnections>
     <bounds
         x="176"
-        y="224"
+        y="-144"
         width="193"
         height="152"/>
     <children
@@ -49,7 +49,7 @@
           target="id-18ca2fac0eff4eaf903fab5815bc0d20">
         <bendpoints
             startX="216"
-            endY="184"/>
+            endY="-184"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-42c9cd57949640e382064f294a15112a.xml#id-42c9cd57949640e382064f294a15112a"/>
@@ -138,7 +138,7 @@
           href="BusinessObject_id-f9838f01c9c94b71bbaba452ca223f8b.xml#id-f9838f01c9c94b71bbaba452ca223f8b"/>
     </children>
     <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-e14a176842b74ffa9742f81ee8cf8d62.xml#id-e14a176842b74ffa9742f81ee8cf8d62"/>
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-af36e5b5ebdb4dd6b3fa63aabc1e0c2b.xml#id-af36e5b5ebdb4dd6b3fa63aabc1e0c2b"/>
   </children>
 </archimate:ArchimateDiagramModel>
