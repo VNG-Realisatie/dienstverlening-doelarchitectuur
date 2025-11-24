@@ -249,7 +249,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-84949768c5ce4345b86f0fa392192528"
-        font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
         fillColor="#ffeaf8"
         textPosition="1">
       <sourceConnections

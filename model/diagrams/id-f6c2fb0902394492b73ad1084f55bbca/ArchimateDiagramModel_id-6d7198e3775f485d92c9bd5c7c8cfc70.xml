@@ -1226,7 +1226,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c2e7f239900043f8bb237be66db63c0a"
-      font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
       fillColor="#ffeaf8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1518,7 +1517,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-75bb5e6140eb4f01a61929efaa82eb3f"
-      font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
       fillColor="#ffeaf8"
       textPosition="1">
     <sourceConnections
@@ -1596,7 +1594,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-28ffe828b53645fcb2959d0157e40932"
-      font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
       fillColor="#ffeaf8"
       textPosition="1">
     <sourceConnections
