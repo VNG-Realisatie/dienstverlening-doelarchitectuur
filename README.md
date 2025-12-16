@@ -4,4 +4,4 @@
 
 # Dienstverlening Doelarchitectuur (DIDO)
 
-Concept ter evaluatie
+Conceptversie van Archimate-model bij de Dienstverlening Doelarchitectuur (DIDO), bedoeld voor evaluatie.
