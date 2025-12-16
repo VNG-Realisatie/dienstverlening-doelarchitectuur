@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ontstaat door"
+    name="hoort bij"
     id="id-7981469c274c4130878b5fb0f6fb07a0"
     directed="true">
   <source

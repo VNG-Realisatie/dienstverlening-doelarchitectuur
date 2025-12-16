@@ -172,15 +172,6 @@
       fillColor="#fff2ea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b4aff224c673498c9a223d3f0b7fdbfa"
-        source="id-c677949d047d42dfbcdf620ba95966c5"
-        target="id-f533995fd3ee47a49494e5320ba0739d">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-5575a58a9d084585bc1f36d5aaf1d5dd.xml#id-5575a58a9d084585bc1f36d5aaf1d5dd"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-249d0f6cc39d498a9a377246f9d70ae4"
         source="id-c677949d047d42dfbcdf620ba95966c5"
         target="id-78bd0fd0cd0747f183a046d10b217635">
@@ -212,7 +203,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f533995fd3ee47a49494e5320ba0739d"
-        targetConnections="id-b4aff224c673498c9a223d3f0b7fdbfa id-d94a88e216bb44bc82c410eb1a0525bd"
+        targetConnections="id-d94a88e216bb44bc82c410eb1a0525bd"
         font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
         fillColor="#fed5c0"
         textPosition="1">

@@ -54,15 +54,6 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-ab6ef7714a044f14b475b61af8009d0d.xml#id-ab6ef7714a044f14b475b61af8009d0d"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-2e408a0a1c254e29b1364926541aea51"
-        source="id-2dac48752ca34521948cd545adea9198"
-        target="id-3d21abb2e6874bd7bd63ff175c249992">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-5575a58a9d084585bc1f36d5aaf1d5dd.xml#id-5575a58a9d084585bc1f36d5aaf1d5dd"/>
-    </sourceConnections>
     <bounds
         x="768"
         y="216"
@@ -113,7 +104,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3d21abb2e6874bd7bd63ff175c249992"
-        targetConnections="id-2e408a0a1c254e29b1364926541aea51 id-56f039aa15594c0c85a077c6d52bbe82 id-6c8021220ec74bd5a93f43cf904b481f"
+        targetConnections="id-56f039aa15594c0c85a077c6d52bbe82 id-6c8021220ec74bd5a93f43cf904b481f"
         font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|-94|3|2|1|2|Figtree"
         lineWidth="3"
         fillColor="#fed5c0"
