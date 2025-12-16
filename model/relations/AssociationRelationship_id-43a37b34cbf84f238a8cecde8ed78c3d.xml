@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="waarborgt duurz. toegankelijkheid van"
+    id="id-43a37b34cbf84f238a8cecde8ed78c3d"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="fcc56be0-4b3f-43d7-b896-c3aa58527aa8"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-136ec7e060634b799695ae0a2e000891.xml#id-136ec7e060634b799695ae0a2e000891"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d43497f2ac9f45c9958dd7e729d45ba3.xml#id-d43497f2ac9f45c9958dd7e729d45ba3"/>
+</archimate:AssociationRelationship>

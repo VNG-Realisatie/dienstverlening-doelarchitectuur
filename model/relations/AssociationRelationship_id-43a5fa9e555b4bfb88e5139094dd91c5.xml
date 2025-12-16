@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt vereist binnen"
+    id="id-43a5fa9e555b4bfb88e5139094dd91c5"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="da935bb2-abda-4b6a-8302-d6aa4c610eca"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-91b30647311d408f96b1334f178ecc09.xml#id-91b30647311d408f96b1334f178ecc09"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-69a376dcfcf2472e8fe3c8bf0ce97b6f.xml#id-69a376dcfcf2472e8fe3c8bf0ce97b6f"/>
+</archimate:AssociationRelationship>

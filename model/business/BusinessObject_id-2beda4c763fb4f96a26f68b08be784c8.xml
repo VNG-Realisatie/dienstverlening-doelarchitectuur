@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatie-artefact"
+    id="id-2beda4c763fb4f96a26f68b08be784c8"
+    documentation="Een verzameling gegevens, gemaakt voor overdracht van informatie.">
+  <properties
+      key="Object ID"
+      value="412f7742-34eb-410f-9c5d-34da5ebde041"/>
+</archimate:BusinessObject>

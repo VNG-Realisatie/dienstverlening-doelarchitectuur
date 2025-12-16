@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product- of dienstactie"
+    id="id-f9838f01c9c94b71bbaba452ca223f8b"
+    documentation="Een soort handeling die in het kader van een product of dienst kan worden uitgevoerd.">
+  <properties
+      key="Object ID"
+      value="a178539e-e955-4acf-8cd8-7d0472fb2b1a"/>
+</archimate:BusinessObject>

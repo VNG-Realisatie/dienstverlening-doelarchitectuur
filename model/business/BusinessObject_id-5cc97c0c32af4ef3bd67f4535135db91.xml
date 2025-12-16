@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzoek"
+    id="id-5cc97c0c32af4ef3bd67f4535135db91"
+    documentation="Een vraag van een persoon of organisatie aan de gemeente iets te doen of te laten.">
+  <properties
+      key="Object ID"
+      value="b7a8ebea-3462-4545-baf6-aaae6f4beaf6"/>
+</archimate:BusinessObject>

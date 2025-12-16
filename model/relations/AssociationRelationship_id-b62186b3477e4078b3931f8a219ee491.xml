@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="krijgt opvolging in"
+    id="id-b62186b3477e4078b3931f8a219ee491"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="0f777b47-4b94-4f43-9c35-92b98ea56dd3"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5cc97c0c32af4ef3bd67f4535135db91.xml#id-5cc97c0c32af4ef3bd67f4535135db91"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0414414b1c8047ebacf034d8653385b0.xml#id-0414414b1c8047ebacf034d8653385b0"/>
+</archimate:AssociationRelationship>

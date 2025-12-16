@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verwantwoordt verwerking persoonsgevevens bij"
+    id="id-523329d5295540df89363d3effee936c"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="5d4324d7-bc38-48da-815b-009e1295832c"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-ceead36570aa4e16a46fa0c6e59f1b59.xml#id-ceead36570aa4e16a46fa0c6e59f1b59"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-86b19f37ff70411fb3383f35e55bce22.xml#id-86b19f37ff70411fb3383f35e55bce22"/>
+</archimate:AssociationRelationship>

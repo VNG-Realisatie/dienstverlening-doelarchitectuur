@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klanttaak"
+    id="id-b7b15ab07a8840a182855e83887ff71c"
+    documentation="Iets dat door een bij een proces betrokken partij moet worden gedaan.">
+  <properties
+      key="Object ID"
+      value="68b15630-18b3-4342-97d0-4b58d1e561a3"/>
+</archimate:BusinessObject>

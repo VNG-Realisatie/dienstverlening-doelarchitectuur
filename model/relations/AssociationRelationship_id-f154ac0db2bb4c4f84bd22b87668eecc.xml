@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="informeert betrokkenen over uitgevoerde"
+    id="id-f154ac0db2bb4c4f84bd22b87668eecc"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="147d8563-c1d5-470a-8475-00e329bfe742"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-eb7703491ae643b698fa8df021c12ee0.xml#id-eb7703491ae643b698fa8df021c12ee0"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-86b19f37ff70411fb3383f35e55bce22.xml#id-86b19f37ff70411fb3383f35e55bce22"/>
+</archimate:AssociationRelationship>

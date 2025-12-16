@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan omvang ontlenen aan"
+    id="id-1e96a58c227648628c2dc1f8912dead7"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="092a46a6-01d9-475c-b700-94da11194af7"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d43497f2ac9f45c9958dd7e729d45ba3.xml#id-d43497f2ac9f45c9958dd7e729d45ba3"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f35714a0028d4d0a982f44e87f8655dd.xml#id-f35714a0028d4d0a982f44e87f8655dd"/>
+</archimate:AssociationRelationship>

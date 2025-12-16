@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interne actor"
+    id="id-0ed7bd3dfc174d228d9e8a8a6cf0aed3"
+    documentation="Iemand die, of iets dat voor de gemeente werkt.">
+  <properties
+      key="Object ID"
+      value="e34be856-a052-4d74-8240-a6cf463600eb"/>
+</archimate:BusinessObject>

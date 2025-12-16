@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is doelgroepspecifieke projectie op"
+    id="id-f8a93f4c11a449ea92dcbf9668321bb4"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="8df5b869-6b95-47b3-9946-fe07f9599649"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-851fe21d2e3347e883dcd868d6c92240.xml#id-851fe21d2e3347e883dcd868d6c92240"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-abfaef21d5224649ac6616fac5511659.xml#id-abfaef21d5224649ac6616fac5511659"/>
+</archimate:AssociationRelationship>

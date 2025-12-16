@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Taak"
+    id="id-0414414b1c8047ebacf034d8653385b0"
+    documentation="Uitgesteld of door een ander uit te voeren werk.">
+  <properties
+      key="Object ID"
+      value="bbe23abb-0e89-42f5-85fa-c286ef282e9f"/>
+</archimate:BusinessObject>

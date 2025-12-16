@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kent betrokken"
+    id="id-5a540d9c5ddd4e52911b2133e573b6b0"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="871e4ea9-aec7-42a1-b0cb-0ac335270ffd"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-b5a7a84adc7e4f80b1603cbba8b4074d.xml#id-b5a7a84adc7e4f80b1603cbba8b4074d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-89f4f7c0aeac4816a3db15e9e190d303.xml#id-89f4f7c0aeac4816a3db15e9e190d303"/>
+</archimate:AssociationRelationship>

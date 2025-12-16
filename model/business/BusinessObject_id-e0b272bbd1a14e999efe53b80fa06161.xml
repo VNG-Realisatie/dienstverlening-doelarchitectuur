@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product of dienst"
+    id="id-e0b272bbd1a14e999efe53b80fa06161"
+    documentation="Iets wat de gemeente kan voortbrengen.">
+  <properties
+      key="Object ID"
+      value="9165ba7c-b7ea-4a99-b536-351c1ae5cbb9"/>
+</archimate:BusinessObject>

@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat overbrenging van"
+    id="id-30cf3084c84b4334a1a3023100b1f634"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="7f3a8eb2-bbab-46e4-bdd3-ccfe2b038dc3"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-abfaef21d5224649ac6616fac5511659.xml#id-abfaef21d5224649ac6616fac5511659"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2beda4c763fb4f96a26f68b08be784c8.xml#id-2beda4c763fb4f96a26f68b08be784c8"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat in ieder geval een"
+    id="id-2d056392770a4d9eb359dc5ac129aae7"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="fa4aa312-cfb8-4c39-9ccf-13f3f486ffef"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-d42055ff248f470895482499af058c02.xml#id-d42055ff248f470895482499af058c02"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2beda4c763fb4f96a26f68b08be784c8.xml#id-2beda4c763fb4f96a26f68b08be784c8"/>
+</archimate:AssociationRelationship>

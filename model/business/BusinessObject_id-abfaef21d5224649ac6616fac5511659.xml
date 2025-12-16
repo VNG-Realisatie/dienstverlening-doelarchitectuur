@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact"
+    id="id-abfaef21d5224649ac6616fac5511659"
+    documentation="Verslag van een interactie tussen één of meerdere personen of organisaties en de gemeente.">
+  <properties
+      key="Datatype primaire view"
+      value="Event list"/>
+  <properties
+      key="Historie"
+      value="Alleen registratietijd"/>
+  <properties
+      key="Geautomatiseerd historisch bevragen (middels API)"
+      value="Neen"/>
+  <properties
+      key="Centraal register"
+      value="Neen"/>
+  <properties
+      key="Object ID"
+      value="f45fd649-959f-4034-a56c-2acd2217f6c7"/>
+</archimate:BusinessObject>
