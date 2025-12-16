@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datagedreven werken"
-    id="id-b61eb2bb882a4b9c8521bb565fe72ca6"
-    documentation="Actief openbaarmaken van gemeentelijke informatie die niet (primair) voor het doel van openbaarmaking is gecreëerd.">
-  <properties
-      key="Grondslag"
-      value="Wet open overheid, Wet elektronische publicaties, Bekendmakingswet, Gemeentewet (?)"/>
-</archimate:BusinessFunction>

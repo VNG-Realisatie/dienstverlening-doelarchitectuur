@@ -1,8 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Werkstap"
-    id="id-86b19f37ff70411fb3383f35e55bce22"
-    documentation="Verslag dat beschrijft hoe een deel van een hoeveelheid werk is uitgevoerd.">
-  <properties
-      key="Datatype primaire view"/>
-</archimate:BusinessObject>

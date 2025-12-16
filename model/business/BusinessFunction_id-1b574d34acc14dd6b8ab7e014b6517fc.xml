@@ -1,9 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Actieve openbaarmaking"
-    id="id-1b574d34acc14dd6b8ab7e014b6517fc"
-    documentation="Actief openbaarmaken van gemeentelijke informatie die niet (primair) voor het doel van openbaarmaking is gecreëerd.">
-  <properties
-      key="Grondslag"
-      value="Wet open overheid, Wet elektronische publicaties, Bekendmakingswet, Gemeentewet (?)"/>
-</archimate:BusinessFunction>
