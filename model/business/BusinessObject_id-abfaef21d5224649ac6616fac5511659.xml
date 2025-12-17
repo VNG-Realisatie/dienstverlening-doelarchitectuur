@@ -18,4 +18,7 @@
   <properties
       key="Object ID"
       value="f45fd649-959f-4034-a56c-2acd2217f6c7"/>
+  <properties
+      key="DIDO-type"
+      value="Kernconcept"/>
 </archimate:BusinessObject>

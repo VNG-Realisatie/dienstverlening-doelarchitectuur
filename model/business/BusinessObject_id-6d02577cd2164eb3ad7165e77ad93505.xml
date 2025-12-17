@@ -6,4 +6,7 @@
   <properties
       key="Object ID"
       value="da0e5110-5217-4aa7-a62d-e994d0c23006"/>
+  <properties
+      key="DIDO-type"
+      value="Kernconcept"/>
 </archimate:BusinessObject>

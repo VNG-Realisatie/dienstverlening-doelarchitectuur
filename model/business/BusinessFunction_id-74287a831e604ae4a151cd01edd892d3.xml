@@ -5,4 +5,8 @@
   <properties
       key="Object ID"
       value="d3b9e852-337f-436d-aa56-a18f9d48daec"/>
+  <properties
+      key="DIDO-type"
+      value="Kernfunctie"/>
+  <properties/>
 </archimate:BusinessFunction>

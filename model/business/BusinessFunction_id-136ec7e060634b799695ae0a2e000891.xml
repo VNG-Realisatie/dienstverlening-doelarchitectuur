@@ -12,4 +12,7 @@
   <properties
       key="Object ID"
       value="aa83e0ca-8ee0-4517-9dbd-2d52bc80abbd"/>
+  <properties
+      key="DIDO-type"
+      value="Doegerichte functie"/>
 </archimate:BusinessFunction>
