@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Melding"
-    id="id-e7dffe40e2d74e6683ad151f9e327b25">
+    id="id-e7dffe40e2d74e6683ad151f9e327b25"
+    documentation="Een officiële kennisgeving van een gebeurtenis, waarneming, of geplande activiteit.">
   <properties
       key="Object ID"
       value="00acd2da-96e2-4f36-9618-c161b8125f0e"/>

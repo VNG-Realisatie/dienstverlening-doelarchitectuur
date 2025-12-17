@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bijlage"
-    id="id-007b285bd9704e2fb682b30b7b5090cc">
+    id="id-007b285bd9704e2fb682b30b7b5090cc"
+    documentation="Een als aanhangsel toegevoegd document.">
   <properties
       key="Object ID"
       value="3a727ae5-27f6-4820-87dd-9f1a4e462674"/>

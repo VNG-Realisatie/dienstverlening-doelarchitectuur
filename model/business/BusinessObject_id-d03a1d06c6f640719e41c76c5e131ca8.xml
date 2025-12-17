@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ketenpartnertaak"
-    id="id-d03a1d06c6f640719e41c76c5e131ca8">
+    id="id-d03a1d06c6f640719e41c76c5e131ca8"
+    documentation="Door een keten- of netwerkpartner uit te voeren werk.">
   <properties
       key="Object ID"
       value="4ed95f7b-635e-4cc0-bfc1-12d24c8339a0"/>

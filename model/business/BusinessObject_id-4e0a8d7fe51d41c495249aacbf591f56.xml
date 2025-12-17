@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fysiek product"
-    id="id-4e0a8d7fe51d41c495249aacbf591f56">
+    id="id-4e0a8d7fe51d41c495249aacbf591f56"
+    documentation="Een tastbaar product.">
   <properties
       key="Object ID"
       value="a54175a9-c0e5-4e73-a054-0523c1a1c3d1"/>

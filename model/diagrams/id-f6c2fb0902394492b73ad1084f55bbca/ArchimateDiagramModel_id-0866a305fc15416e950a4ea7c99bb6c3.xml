@@ -513,6 +513,23 @@
                 y="40"
                 width="129"
                 height="80"/>
+            <children
+                xsi:type="archimate:DiagramModelReference"
+                id="id-073db6d7269844f88db03e5b84b9fc6d"
+                font="1|Figtree|8.25|2|WINDOWS|1|-11|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
+                alpha="0"
+                textPosition="2">
+              <features
+                  name="lineAlpha"
+                  value="0"/>
+              <bounds
+                  y="16"
+                  width="128"
+                  height="64"/>
+              <referencedModel
+                  xsi:type="archimate:ArchimateDiagramModel"
+                  href="ArchimateDiagramModel_id-8107c72eabfc480ba91357817f86a41e.xml#id-8107c72eabfc480ba91357817f86a41e"/>
+            </children>
             <archimateElement
                 xsi:type="archimate:BusinessObject"
                 href="BusinessObject_id-0414414b1c8047ebacf034d8653385b0.xml#id-0414414b1c8047ebacf034d8653385b0"/>
@@ -653,8 +670,9 @@
             name="lineAlpha"
             value="0"/>
         <bounds
+            y="16"
             width="129"
-            height="82"/>
+            height="66"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-14d15ade4a4442ac8f76d88ff9959d17.xml#id-14d15ade4a4442ac8f76d88ff9959d17"/>
@@ -695,8 +713,9 @@
             name="lineAlpha"
             value="0"/>
         <bounds
+            y="16"
             width="129"
-            height="82"/>
+            height="66"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-95d5c0c4adb34d0088afe33b1ce5a88b.xml#id-95d5c0c4adb34d0088afe33b1ce5a88b"/>
@@ -737,8 +756,9 @@
             name="lineAlpha"
             value="0"/>
         <bounds
+            y="16"
             width="129"
-            height="82"/>
+            height="66"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-229b64fa9c6a4b33a8094e5a0e3bf66d.xml#id-229b64fa9c6a4b33a8094e5a0e3bf66d"/>
@@ -779,8 +799,9 @@
             name="lineAlpha"
             value="0"/>
         <bounds
+            y="16"
             width="129"
-            height="80"/>
+            height="64"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-bff4938b46d5454080043d50a8c688cf.xml#id-bff4938b46d5454080043d50a8c688cf"/>
@@ -821,8 +842,9 @@
             name="lineAlpha"
             value="0"/>
         <bounds
+            y="16"
             width="129"
-            height="82"/>
+            height="66"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-f8374bcd0ca640c6b4d3e57acc1bf073.xml#id-f8374bcd0ca640c6b4d3e57acc1bf073"/>
@@ -853,6 +875,23 @@
           y="41"
           width="129"
           height="81"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-09a460406f614161a1351aa87c122d42"
+          font="1|Figtree|6.0|2|WINDOWS|1|-8|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
+          alpha="0"
+          textPosition="2">
+        <features
+            name="lineAlpha"
+            value="0"/>
+        <bounds
+            y="16"
+            width="128"
+            height="64"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-54320bb40e09488992a9ecec4d84f1c8.xml#id-54320bb40e09488992a9ecec4d84f1c8"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-2b117cc2e43949b587b2b565fc17e190.xml#id-2b117cc2e43949b587b2b565fc17e190"/>

@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Duurzaam te leveren dienst"
-    id="id-fa6497b9218f4623ad7b06d3843da1b9">
+    id="id-fa6497b9218f4623ad7b06d3843da1b9"
+    documentation="Een dienst die gedurende een periode geleverd wordt.">
   <properties
       key="Object ID"
       value="3a00507b-a9bb-46f9-b82b-950b94a04d9a"/>

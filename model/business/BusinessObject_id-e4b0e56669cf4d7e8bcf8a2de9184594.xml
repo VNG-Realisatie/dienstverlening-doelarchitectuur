@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Handelsregister-organisatie"
-    id="id-e4b0e56669cf4d7e8bcf8a2de9184594">
+    id="id-e4b0e56669cf4d7e8bcf8a2de9184594"
+    documentation="Een organisatie die voorkomt in het Handelsregister.">
   <properties
       key="Object ID"
       value="234738c0-0d1d-478f-807e-7bb4404c000c"/>

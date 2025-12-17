@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AVG logging"
-    id="id-294ffe7bf7de4727ac837c95a68ccf73">
+    id="id-294ffe7bf7de4727ac837c95a68ccf73"
+    documentation="Het geautomatiseerd registreren van verwerkingen van persoonsgegevens zodat aan de eisen van de AVG kan worden worden voldaan.">
   <properties
       key="Object ID"
       value="42ae079b-1fb7-4479-bbe2-43dd443c5837"/>

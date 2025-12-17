@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Geautomatiseerde actor"
-    id="id-e5639f578273401ebf66ac5ba816f288">
+    id="id-e5639f578273401ebf66ac5ba816f288"
+    documentation="Systeemcomponent die voor de gemeente werkzaamheden uitvoert.">
   <properties
       key="Object ID"
       value="543286a1-0126-4f97-9bbf-f1920861cc1f"/>

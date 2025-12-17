@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medeweker (in PZ-administratie)"
-    id="id-d567a5cd6a334b1caa4cc8d470003cbc">
+    id="id-d567a5cd6a334b1caa4cc8d470003cbc"
+    documentation="Gegevens over een mewerker in de administratie van de afdeling personeelszaken">
   <properties
       key="Object ID"
       value="6dc22e87-c976-4cf9-86be-9771195ac0b5"/>

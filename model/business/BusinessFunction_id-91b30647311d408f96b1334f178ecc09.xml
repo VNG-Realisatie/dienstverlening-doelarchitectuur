@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authenticatie"
-    id="id-91b30647311d408f96b1334f178ecc09">
+    id="id-91b30647311d408f96b1334f178ecc09"
+    documentation="Een elektronisch proces dat de bevestiging van de elektronische identificatie van een natuurlijke persoon of rechtspersoon mogelijk maakt.">
   <properties
       key="Object ID"
       value="a1654626-eaa6-4747-b062-30a54d7bba0e"/>

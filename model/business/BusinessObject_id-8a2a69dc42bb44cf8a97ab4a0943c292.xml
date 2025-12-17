@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanvraag"
-    id="id-8a2a69dc42bb44cf8a97ab4a0943c292">
+    id="id-8a2a69dc42bb44cf8a97ab4a0943c292"
+    documentation="Een verzoek van een belanghebbende, een besluit te nemen.">
   <properties
       key="Object ID"
       value="bf8c79ff-c7c6-4740-8a75-d0dfcbf93a8b"/>

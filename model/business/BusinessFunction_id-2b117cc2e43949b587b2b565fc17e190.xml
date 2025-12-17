@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Keten- en netwerk-samenwerking"
-    id="id-2b117cc2e43949b587b2b565fc17e190">
+    id="id-2b117cc2e43949b587b2b565fc17e190"
+    documentation="Het kanaalonafhankelijk bieden van inzage- en beperkte mutatie- en aanvullingsmogelijkheden bij informatie die onstaat tijdens werk dat keten- of netwerkpartners voor de gemeente als opdrachtgever uitvoeren of vice versa.">
   <properties
       key="Object ID"
       value="9b1e070f-a766-4246-96b6-24993eb6eb25"/>

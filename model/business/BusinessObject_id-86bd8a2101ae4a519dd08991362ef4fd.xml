@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisatieonderdeel"
-    id="id-86bd8a2101ae4a519dd08991362ef4fd">
+    id="id-86bd8a2101ae4a519dd08991362ef4fd"
+    documentation="Een afdeling binnen de gemeente.">
   <properties
       key="Object ID"
       value="3098c218-36c0-4cd6-8328-13060d86e13c"/>

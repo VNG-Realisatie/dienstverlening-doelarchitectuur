@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domeinspecifiek groeperend concept"
-    id="id-f35714a0028d4d0a982f44e87f8655dd">
+    id="id-f35714a0028d4d0a982f44e87f8655dd"
+    documentation="Een concept waarvoor behoefte bestaat aan het kunnen inzien van gerelateerd werk.">
   <properties
       key="Object ID"
       value="5717da32-6217-4192-ac86-208da22a49c7"/>

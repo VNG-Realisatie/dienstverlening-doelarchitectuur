@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vertegenwoordiging"
-    id="id-74287a831e604ae4a151cd01edd892d3">
+    id="id-74287a831e604ae4a151cd01edd892d3"
+    documentation="Het op basis van machtiging handelen namens een andere persoon of organisatie.">
   <properties
       key="Object ID"
       value="d3b9e852-337f-436d-aa56-a18f9d48daec"/>

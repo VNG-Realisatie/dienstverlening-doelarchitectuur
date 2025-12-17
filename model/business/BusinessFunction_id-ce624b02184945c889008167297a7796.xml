@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Niet-ingezetenenadministratie"
     id="id-ce624b02184945c889008167297a7796"
-    documentation="Het uitvoeren van taken om de Basisregistratie Personen actueel en betrouwbaar te houden">
+    documentation="Het uitvoeren van taken om de registraties over personen die in de BRP en RNI niet voorkomen actueel en betrouwbaar te houden">
   <properties
       key="Toelichting"
       value="Bijv. het actualiseren van gegevens naar aanleiding van verleende diensten of het onderzoeken van persoons- en/of adres gegevens (bijv. n.a..v terugmeldingen)"/>

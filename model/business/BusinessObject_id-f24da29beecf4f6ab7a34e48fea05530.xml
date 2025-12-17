@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medewerker"
-    id="id-f24da29beecf4f6ab7a34e48fea05530">
+    id="id-f24da29beecf4f6ab7a34e48fea05530"
+    documentation="Iemand die voor de gemeente werkt.">
   <properties
       key="Object ID"
       value="fe5805ff-5dce-4866-85be-8fcf2095543a"/>

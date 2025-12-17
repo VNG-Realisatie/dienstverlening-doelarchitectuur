@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BIO logging"
-    id="id-835c9072b0934a6ba09a1a1f6eff71ef">
+    id="id-835c9072b0934a6ba09a1a1f6eff71ef"
+    documentation="Het geautomatiseerd registreren van incidenten en andere gebeurtenissen zodat aan de eisen uit de Baseline Informatiebeveiliging Overheid (BIO) kan worden worden voldaan.">
   <properties
       key="Object ID"
       value="0cf0ff87-e52a-4830-a13f-6a19aac2766b"/>

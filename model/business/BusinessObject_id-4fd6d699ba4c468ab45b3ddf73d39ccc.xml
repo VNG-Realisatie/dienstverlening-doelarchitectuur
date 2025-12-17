@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Besluit"
-    id="id-4fd6d699ba4c468ab45b3ddf73d39ccc">
+    id="id-4fd6d699ba4c468ab45b3ddf73d39ccc"
+    documentation="Een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling. ">
   <properties
       key="Object ID"
       value="b9500083-4474-4c0e-a0a1-fd8c294a6a05"/>
