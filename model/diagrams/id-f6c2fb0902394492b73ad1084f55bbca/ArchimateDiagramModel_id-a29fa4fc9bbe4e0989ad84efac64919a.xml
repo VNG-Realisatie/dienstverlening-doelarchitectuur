@@ -27,16 +27,6 @@
           width="1153"
           height="577"/>
       <children
-          xsi:type="archimate:DiagramModelNote"
-          id="id-2b90c064c594400eb40e89b017f5af5d"
-          textAlignment="1">
-        <bounds
-            x="1200"
-            y="-176"
-            width="160"
-            height="176"/>
-      </children>
-      <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b6fce9f8c6984bbab3c33b08a0dac0ee"
           fillColor="#fff2ea">

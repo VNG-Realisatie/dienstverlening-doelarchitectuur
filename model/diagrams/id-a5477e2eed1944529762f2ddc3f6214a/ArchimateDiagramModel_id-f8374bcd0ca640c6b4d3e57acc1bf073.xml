@@ -119,7 +119,7 @@
       <bendpoints
           startX="-224"
           startY="16"
-          endY="-137"/>
+          endY="-136"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-523329d5295540df89363d3effee936c.xml#id-523329d5295540df89363d3effee936c"/>
@@ -172,7 +172,7 @@
           source="id-cabec652425042a5b54251277776de29"
           target="id-04104ed0e18f4eea80c875141b3510dd">
         <bendpoints
-            startY="103"
+            startY="104"
             endX="-224"
             endY="104"/>
         <bendpoints
