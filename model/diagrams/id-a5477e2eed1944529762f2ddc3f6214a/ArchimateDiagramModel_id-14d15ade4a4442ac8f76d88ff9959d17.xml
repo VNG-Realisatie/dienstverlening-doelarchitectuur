@@ -78,12 +78,12 @@
           name="nameVisible"
           value="false"/>
       <bendpoints
-          startY="-80"
+          startY="-88"
           endX="-448"
           endY="88"/>
       <bendpoints
           startX="448"
-          startY="-80"
+          startY="-88"
           endY="88"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -97,26 +97,26 @@
         source="id-bd8fa653e5d040ea8c21a10162c932ae"
         target="id-d74d305c46344f48987933f5e424bfe2">
       <bendpoints
-          startY="136"
+          startY="120"
           endX="-224"
-          endY="-47"/>
+          endY="-55"/>
       <bendpoints
           startX="104"
-          startY="136"
+          startY="120"
           endX="-120"
-          endY="-47"/>
+          endY="-55"/>
       <bendpoints
           startX="104"
-          startY="184"
+          startY="176"
           endX="-120"
-          endY="1"/>
+          endY="2"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-f8a93f4c11a449ea92dcbf9668321bb4.xml#id-f8a93f4c11a449ea92dcbf9668321bb4"/>
     </sourceConnections>
     <bounds
         x="480"
-        y="1040"
+        y="1048"
         width="129"
         height="81"/>
     <archimateElement
