@@ -1,7 +1,24 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Keten- en netwerk-samenwerking"
+    name="Keten- en netwerksamenwerking"
     id="id-54320bb40e09488992a9ecec4d84f1c8">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1639a66837fc4c978e25e4ac1b0bb7fc"
+      font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
+      lineWidth="3"
+      fillColor="#bafebf"
+      textPosition="1">
+    <bounds
+        x="80"
+        y="80"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-2bebf0deea6b4990ba55afd4eb51b5a4.xml#id-2bebf0deea6b4990ba55afd4eb51b5a4"/>
+  </children>
   <properties
       key="Object ID"
       value="1df2bdb1-60d7-4980-afb7-e912de72aa17"/>

@@ -15,17 +15,29 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a00976e558d0465dba67db8d0a86ebcc"
         font="1|Figtree|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|2|Figtree"
-        textPosition="2"
+        textPosition="0"
         source="id-387e269d83484aa3a42cd66e75e7b648"
         target="id-2012ff980b2640cf8934a836da4ebfb1">
       <bendpoints
-          startX="128"
-          endX="128"
-          endY="-336"/>
+          startX="24"
+          startY="56"
+          endX="24"
+          endY="-280"/>
       <bendpoints
-          startX="128"
-          startY="336"
-          endX="128"/>
+          startX="112"
+          startY="56"
+          endX="112"
+          endY="-280"/>
+      <bendpoints
+          startX="112"
+          startY="240"
+          endX="112"
+          endY="-96"/>
+      <bendpoints
+          startX="24"
+          startY="240"
+          endX="24"
+          endY="-96"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-4036ada3b144423286f21ce741a3f9ab.xml#id-4036ada3b144423286f21ce741a3f9ab"/>
@@ -37,6 +49,11 @@
         textPosition="2"
         source="id-387e269d83484aa3a42cd66e75e7b648"
         target="id-a12ce37ae91f4ca58a191c79e837b981">
+      <bendpoints
+          startX="-24"
+          startY="72"
+          endX="-24"
+          endY="-80"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-677f526f17b145dc821d06ca2f30bcc7.xml#id-677f526f17b145dc821d06ca2f30bcc7"/>
@@ -73,6 +90,11 @@
           textPosition="2"
           source="id-a12ce37ae91f4ca58a191c79e837b981"
           target="id-2012ff980b2640cf8934a836da4ebfb1">
+        <bendpoints
+            startX="-24"
+            startY="88"
+            endX="-24"
+            endY="-96"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-07eba527d865474b88c96e08519795c0.xml#id-07eba527d865474b88c96e08519795c0"/>

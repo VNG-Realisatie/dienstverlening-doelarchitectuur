@@ -11,7 +11,7 @@
         x="24"
         y="344"
         width="417"
-        height="337"/>
+        height="345"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3af07e1de0f544868cc3c8037f87ea1d"
@@ -69,12 +69,12 @@
           source="id-9c91e390ac464a3391a45a350684b519"
           target="id-5a8e4427ca7940ffa1051c326f8005d4">
         <bendpoints
-            startY="-88"
+            startY="-96"
             endX="-224"
             endY="94"/>
         <bendpoints
             startX="224"
-            startY="-88"
+            startY="-96"
             endY="94"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
@@ -82,7 +82,7 @@
       </sourceConnections>
       <bounds
           x="32"
-          y="224"
+          y="232"
           width="129"
           height="81"/>
       <archimateElement
@@ -112,7 +112,7 @@
       </sourceConnections>
       <bounds
           x="256"
-          y="224"
+          y="232"
           width="129"
           height="81"/>
       <archimateElement
@@ -127,7 +127,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c82c0335e97643f48c58a389c5f380a0"
       font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
-      lineWidth="3"
       fillColor="#bafebf"
       textPosition="1">
     <sourceConnections
@@ -137,6 +136,11 @@
         textPosition="2"
         source="id-c82c0335e97643f48c58a389c5f380a0"
         target="id-5a8e4427ca7940ffa1051c326f8005d4">
+      <bendpoints
+          startX="24"
+          startY="72"
+          endX="24"
+          endY="-82"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-110103deefb3419ba42666bc9ab851bf.xml#id-110103deefb3419ba42666bc9ab851bf"/>
@@ -154,7 +158,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8b75aa6e97704499ab8ca76547d842b7"
       font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
-      lineWidth="3"
       fillColor="#bafebf"
       textPosition="1">
     <sourceConnections
@@ -170,9 +173,9 @@
           endX="-232"
           endY="-98"/>
       <bendpoints
-          startX="184"
+          startX="200"
           startY="56"
-          endX="-40"
+          endX="-24"
           endY="-98"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -195,7 +198,7 @@
         x="472"
         y="344"
         width="193"
-        height="149"/>
+        height="153"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-475294166bb346f5bf152b1d9ddedb41"
@@ -210,9 +213,8 @@
           source="id-475294166bb346f5bf152b1d9ddedb41"
           target="id-5a8e4427ca7940ffa1051c326f8005d4">
         <bendpoints
-            startX="-120"
-            startY="3"
-            endX="104"
+            startX="-112"
+            endX="112"
             endY="-2"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
@@ -220,7 +222,7 @@
       </sourceConnections>
       <bounds
           x="32"
-          y="37"
+          y="40"
           width="129"
           height="81"/>
       <archimateElement

@@ -7,7 +7,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-40b464a3a23f4b5790b04d8216ac85b9"
       font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
-      lineWidth="3"
       fillColor="#bafebf"
       textPosition="1">
     <sourceConnections
@@ -91,7 +90,6 @@
       id="id-71b82d5aea954f7096855756d7aec143"
       targetConnections="id-1c0b8e526b144e8b939fa54ad5c4d2be"
       font="1|Figtree|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|2|Figtree"
-      lineWidth="3"
       fillColor="#bafebf"
       textPosition="1">
     <bounds
