@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gevolg"
     id="id-6d02577cd2164eb3ad7165e77ad93505"
-    documentation="Resultaat van één of meer werkstappen met blijvende waarde.">
+    documentation="Gebeurtenis waarbij een daartoe bevoegde actor een uitspraak doet waardoor iets gaat gelden.">
   <properties
       key="Object ID"
       value="da0e5110-5217-4aa7-a62d-e994d0c23006"/>
